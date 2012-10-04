@@ -18,8 +18,14 @@ get_header(); ?>
 				<header class="page-header">
 					<h1 class="page-title">
 						<?php
-							if ( is_category() ) {
-								printf( __( 'Category Archives: %s', 'ceplocal' ), '<span>' . single_cat_title( '', false ) . '</span>' );
+							if ( is_category('photos') ) {
+								printf( __( 'Photos', 'ceplocal' ), '<span>' . single_cat_title( '', false ) . '</span>' );
+							
+							} elseif ( is_category('newsletters') ) {
+								printf( __( 'Newsletters', 'ceplocal' ), '<span>' . single_cat_title( '', false ) . '</span>' );
+
+							} elseif ( is_category() ) {
+								printf( __( '', 'ceplocal' ), '<span>' . single_cat_title( '', false ) . '</span>' );
 
 							} elseif ( is_tag() ) {
 								printf( __( 'Tag Archives: %s', 'ceplocal' ), '<span>' . single_tag_title( '', false ) . '</span>' );

@@ -36,13 +36,6 @@ and Blueprint http://www.blueprintcss.org/
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
-body.home .hero {
-  height: 250px;
-  background: green;
-}
-body.home .hero a {
-  color: purple;
-}
 /* =Structure
 ----------------------------------------------- */
 body {
@@ -64,10 +57,22 @@ body.home #main {
 body.home .hero {
   height: 150px;
 }
+#primary {
+  width: 66%;
+  float: left;
+}
+#secondary {
+  float: left;
+  background: #efefef;
+  margin: 75px 0 0 35px;
+  padding: 25px 10px;
+  width: 30%;
+}
 header#masthead {
   position: relative;
 }
 header#masthead h1.site-title {
+  font-size: 40px;
   margin-top: 0;
   text-align: center;
 }
@@ -80,7 +85,8 @@ header#masthead .site-description {
   font-style: italic;
   text-align: center;
   color: #888;
-  padding-top: 25px;
+  padding-top: 40px;
+  padding-bottom: 10px;
   border-top: 10px solid #198ac1;
   width: 60%;
   margin: 0 auto;
@@ -93,13 +99,13 @@ header#masthead .hero {
 }
 header#masthead .representing {
   position: absolute;
-  top: 35px;
+  top: 80px;
   left: 0;
   width: 125px;
 }
 header#masthead .contact {
   position: absolute;
-  top: 45px;
+  top: 95px;
   right: 0;
   width: 130px;
   color: #999;
@@ -130,6 +136,10 @@ h4,
 h5,
 h6 {
   clear: both;
+  font-weight: normal;
+}
+h1 {
+  font-size: 18px;
 }
 hr {
   background-color: #ccc;
@@ -485,10 +495,12 @@ a:active {
 .main-navigation li:hover a {
   color: white;
 }
-.main-navigation .current-menu-ancestor {
+.main-navigation .current-menu-ancestor,
+.main-navigation .current-post-parent {
   background: #198ac1;
 }
-.main-navigation .current-menu-ancestor a {
+.main-navigation .current-menu-ancestor a,
+.main-navigation .current-post-parent a {
   color: white;
 }
 .main-navigation .sub-menu {
@@ -550,6 +562,7 @@ article {
   margin-top: -60px;
 }
 h1.entry-title {
+  font-size: 32px;
   margin-top: -26px;
   background: #fff;
   display: inline-block;
@@ -563,6 +576,33 @@ h1.entry-title {
 h1.entry-title a {
   text-decoration: none;
 }
+/* =Archives page
+----------------------------------------------- */
+body.archive h1.page-title {
+  font-size: 32px;
+  margin-top: -26px;
+  margin-bottom: 30px;
+  background: #fff;
+  display: inline-block;
+  color: #198ac1;
+  padding: 0 35px;
+  margin-left: 25px;
+  border-color: #ccc;
+  border-width: 1px 1px 0 1px;
+  border-style: solid;
+}
+body.archive h1.page-title a {
+  text-decoration: none;
+}
+body.archive article {
+  border-bottom: 2px solid #198ac1;
+  margin: 25px 0;
+  padding: 25px 0 25px;
+}
+body.archive h1.entry-title {
+  background: none;
+  border: none;
+}
 /* =Content
 ----------------------------------------------- */
 .hentry {
@@ -570,6 +610,10 @@ h1.entry-title a {
 }
 .entry-meta {
   clear: both;
+  margin-left: 60px;
+  font-family: Georgia, serif;
+  font-size: 12px;
+  font-style: italic;
 }
 .byline {
   display: none;
@@ -580,7 +624,7 @@ h1.entry-title a {
 }
 .entry-content,
 .entry-summary {
-  margin: 1.5em 0 0;
+  margin: 25px 65px;
 }
 .page-links {
   clear: both;

@@ -70,6 +70,11 @@ function ceplocal_setup() {
 	 * Add support for the Aside Post Formats
 	 */
 	add_theme_support( 'post-formats', array( 'aside', ) );
+
+	/**
+	 * Add support for the Gallery Post Formats
+	 */
+	add_theme_support( 'post-formats', array( 'gallery', ) );
 }
 endif; // ceplocal_setup
 add_action( 'after_setup_theme', 'ceplocal_setup' );
