@@ -130,6 +130,26 @@ function ceplocal_park_show_template() {
 add_action('wp_footer', 'ceplocal_park_show_template');
 
 
+ /**
+ * Include the page slug in the body class attribute.
+ *
+ * @since 0.2
+ *
+ * @param array $classes The existing classes for the body element
+ * @return array The amended class array for the body element
+ */
+
+function ceplocal_better_body_classes( $classes ){
+    global $post;
+    if ( isset( $post ) ) {
+        $classes[] = $post->post_type . '-' . $post->post_name;
+    }
+    return $classes;
+}
+add_filter('body_class', 'ceplocal_better_body_classes');
+
+
+
 
 /**
  * Add slug to menu li classes

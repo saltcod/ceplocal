@@ -45,7 +45,7 @@ body {
   width: 960px;
   background: white;
   margin: 0 auto;
-  padding: 0 25px;
+  padding: 0 25px 10px;
 }
 #main {
   margin-top: -30px;
@@ -57,9 +57,8 @@ body.home #main {
 body.home .hero {
   height: 150px;
 }
-#primary {
-  width: 66%;
-  float: left;
+body.home #primary {
+  width: 100%;
 }
 #secondary {
   float: left;
@@ -92,8 +91,9 @@ header#masthead .site-description {
   margin: 0 auto;
 }
 header#masthead .hero {
-  background: url('images/hero-bg.png');
-  height: 90px;
+  background-image: url('images/satellite.jpg');
+  background-position: 0 -250px;
+  height: 120px;
   width: 100%;
   margin-top: 100px;
 }
@@ -146,9 +146,6 @@ hr {
   border: 0;
   height: 1px;
   margin-bottom: 1.5em;
-}
-a {
-  color: green;
 }
 /* Text elements */
 p {
@@ -411,7 +408,8 @@ a:visited {
 a:hover,
 a:focus,
 a:active {
-  color: midnightblue;
+  color: #136a94;
+  cursor: pointer;
 }
 /* Alignment */
 .alignleft {
@@ -705,6 +703,93 @@ embed,
 iframe,
 object {
   max-width: 100%;
+}
+/* =Bylaws page
+----------------------------------------------- */
+body.page-by-laws {
+  font-family: georgia, serif;
+}
+body.page-by-laws .article-container {
+  margin-left: 40px;
+  padding: 25px;
+}
+body.page-by-laws .articles {
+  margin-left: 100px;
+  width: 650px;
+}
+body.page-by-laws .article-index {
+  margin-bottom: 50px;
+  margin-top: 25px;
+  border-bottom: 1px solid;
+  padding-bottom: 25px;
+  -webkit-column-count: 2;
+}
+body.page-by-laws h2 {
+  font-size: 14px;
+}
+body.page-by-laws h2 a {
+  color: #c1191a;
+}
+body.page-by-laws h2 span {
+  font-weight: bold;
+  margin-right: 15px;
+  width: 80px;
+  display: inline-block;
+}
+body.page-by-laws h3 {
+  font-size: 16px;
+  color: #444;
+  margin-left: -50px;
+}
+body.page-by-laws h3 a {
+  color: #c1191a;
+}
+body.page-by-laws h3:before {
+  content: "\00b6";
+  color: #ccc;
+  padding-right: 15px;
+}
+body.page-by-laws h3 span {
+  border-bottom: 1px solid #aaa;
+}
+body.page-by-laws h4 {
+  font-weight: bold;
+}
+body.page-by-laws ul,
+body.page-by-laws ol {
+  margin: 20px 0;
+}
+body.page-by-laws ol.letters {
+  list-style-type: lower-alpha;
+}
+body.page-by-laws ol.numbers {
+  list-style-type: decimal;
+}
+/* =Footer
+----------------------------------------------- */
+footer.site-footer {
+  background: #f5f5f5;
+  margin-bottom: 25px;
+  padding: 25px;
+}
+footer.site-footer .in-touch,
+footer.site-footer .telephone,
+footer.site-footer .email,
+footer.site-footer .location {
+  font-size: 18px;
+  font-family: georgia, serif;
+}
+footer.site-footer .in-touch.last,
+footer.site-footer .telephone.last,
+footer.site-footer .email.last,
+footer.site-footer .location.last {
+  margin-right: 0;
+}
+footer.site-footer .slash {
+  margin: 0 20px;
+}
+footer.site-footer a {
+  border-bottom: 1px solid;
 }
 /* =Navigation
 ----------------------------------------------- */
