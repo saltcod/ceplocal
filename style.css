@@ -39,7 +39,7 @@ and Blueprint http://www.blueprintcss.org/
 /* =Structure
 ----------------------------------------------- */
 body {
-  background: #efefef;
+  background: #F2F2ED;
 }
 #page {
   width: 960px;
@@ -167,6 +167,16 @@ ol ul {
   margin-bottom: 0;
   margin-left: 1.5em;
 }
+#content li {
+  margin-bottom: 10px;
+}
+li span {
+  /* Create line breaks for list titles */
+
+  display: block;
+  text-decoration: underline;
+  font-weight: bold;
+}
 dt {
   font-weight: bold;
 }
@@ -252,7 +262,7 @@ th {
   background: -ms-linear-gradient(bottom, #444444, #555555);
   background: -moz-linear-gradient(center bottom, #444444 0%, #555555 100%);
   color: white;
-  font-size: 16px;
+  font-size: 12px;
   padding: 5px;
   border-right: 1px solid #ddd;
   padding-left: 20px;
@@ -262,6 +272,7 @@ td {
   padding-left: 20px;
   border: 1px solid #eee;
   vertical-align: top;
+  font-size: 14px;
 }
 td span {
   display: block;

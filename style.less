@@ -18,7 +18,6 @@ along with Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normali
 and Blueprint http://www.blueprintcss.org/
 */
 
-
 @import "inc/css/elements.less";
 @import "inc/css/normalize.css";
 
@@ -34,7 +33,7 @@ and Blueprint http://www.blueprintcss.org/
 /* =Structure
 ----------------------------------------------- */
 body {
-	background: #efefef;
+	background: #F2F2ED;
 }
 
 #page {
@@ -157,6 +156,15 @@ ul ul, ol ol, ul ol, ol ul {
 	margin-bottom: 0;
 	margin-left: 1.5em;
 }
+
+#content li { margin-bottom: 10px; }
+
+li span { /* Create line breaks for list titles */
+	display: block;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
 dt {
 	font-weight: bold;
 }
@@ -230,7 +238,7 @@ th {
 	text-align: left;
 	.gradient(#444, #444, #555);
 	color: white;
-	font-size: 16px;
+	font-size: 12px;
 	padding: 5px;
 	border-right: 1px solid #ddd;
 	padding-left: 20px;
@@ -240,6 +248,7 @@ td {
 	padding-left: 20px;
 	border: 1px solid #eee;
 	vertical-align: top;
+	font-size: 14px;
 		span { 
 			display: block; 
 			font-size: 12px;
