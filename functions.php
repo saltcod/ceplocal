@@ -172,6 +172,18 @@ function ceplocal_add_slug_class_to_menu_item($output){
 add_filter('wp_nav_menu', 'ceplocal_add_slug_class_to_menu_item');
 
 
+
+/**
+ * Show 'Home' link in menu
+ *
+ * @since 1.0
+ */
+function ceplocal_page_menu_args( $args ) {
+	$args['show_home'] = true;
+	return $args;
+}
+add_filter( 'wp_page_menu_args', 'ceplocal_page_menu_args' );
+
 /**
  * Implement the Custom Header feature
  */
