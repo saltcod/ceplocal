@@ -50,235 +50,354 @@ get_header(); ?>
 		<h2><span>Article 25:</span><a href="#miscellaneous">Miscellaneous</a></h2>
 	</div>
  
+
+
+
+
+
 <h3><a id="name">ARTICLE 1: NAME</a></h3>
+
 This local shall be known as Local 410, Communications, Energy and Paperworkers Union of Canada.
+
+
+
+
+
+
 <h3><a id="jurisdiction">ARTICLE 2: JURISDICTION</a></h3>
+
 The jurisdiction of this Local shall be the jurisdiction assigned by the National Union and appearing on the face of the Local Charter
+
+
+
+
+
+
 <h3><a id="objects">ARTICLE 3: OBJECTS</a></h3>
+
 The objects of Local 410 shall be to represent and serve the workers within its jurisdiction in accordance with the By-Laws and Rules of the local and the Constitution and Policies of the Union and the Regulations in the Dominion of Canada of relations between employers and employees through collective bargaining.
+
+
+
+
+
+
 <h3><a id="localstructure">ARTICLE 4: LOCAL STRUCTURE</a></h3>
-The structure of the Local shall consist of the following in descending order:
-1. Membership
-2. Local Executive Board
-3. Officers
-4. Committees
+
+The structure of the Local shall consist of the following in descending order: 1. Membership 2. Local Executive Board 3. Officers 4. Committees
+
+
+
+
+
+
 <h3><a id="membership">ARTICLE 5: MEMBERSHIP</a></h3>
-Section 1: Eligibility
+
+<h4>Section 1: Eligibility</h4>
 
 Any person eligible for membership in the Communications, Energy and Paperworkers Union of Canada as defined in Article 5 of its Constitution shall be eligible for membership in this Local, if performing work within the Local’s assigned jurisdiction or on temporary transfer outside the Local’s assigned jurisdiction, or if employed on a part-time or full-time basis by the Union, or if dismissed and the person who has applied for membership in the Communications, Energy and Paperworkers Union of Canada, and has paid the appropriate fees.
 
-Section 2: Application
+<h4>Section 2: Application</h4>
 
 Application for membership shall be submitted to the Local. The form of the application for membership shall be supplied by the Communications, Energy and Paperworkers Union of Canada. 1st dues deducted shall be considered the initiation fee. An initiation fee shall be submitted along with the written application for membership unless the initiation fee has been waived by action of the Local. A membership card will be issued to each applicant upon approval of the membership application by the Membership Committee, authorized to accept or reject membership on behalf of the Local, subject to the right of the Local to overrule the decision of a Membership Committee at a regular membership meeting.
 
-Section 3: Transfers
+<h4>Section 3: Transfers</h4>
 
 The transfer of membership from this Local to the jurisdiction of another Local and from another Local to the jurisdiction of the Local shall be made in accordance with Article 5 of the Union Constitution.
-<h3><a id="localduesandassessments">RTICLE 6: LOCAL DUES AND ASSESSMENTS</a></h3>
+
+
+
+
+
+
+<h3><a id="localduesandassessments">ARTICLE 6: LOCAL DUES AND ASSESSMENTS</a></h3>
+
 Each member of the Local shall pay dues to the National Union equal to the per capita as established in Article 6 of the CEP Constitution. and pay to the Local, 1.25 x National per capita rate.
 
 In addition to this amount, each member shall pay Defense Fund Per Capita in accordance with Article 6 of the CEP National Constitution. The Local shall notify the membership immediately after the National Union gives notice that the Defense Fund Per Capita is implemented or ceased.
 
 The membership of the Local may levy a special assessment only in the same manner as provided for changing By-Laws under Article 23 of these By-Laws. A special assessment must carry a time frame and this to be a maximum of one year, after which the matter must be reconsidered and voted upon by the membership as per Article 23 of these By-Laws.
+
+
+
+
+
+
 <h3><a id="governingauthority">ARTICLE 7: GOVERNING AUTHORITY</a></h3>
-Section 1: Membership
+
+<h4>Section 1: Membership</h4>
 
 The affairs of the Local shall be governed by its membership in accordance with the Constitution and Policies of the Union in the following manner:
+	<ul>
+		<li>Through action taken in membership meetings or by referendum of the membership.</li>
+		<li>Through actions and decision of the Local Executive Board between membership meetings.</li>
+		<li>Through actions and decision of the Local Officers between meetings of the Local Executive Board.</li>
+		<li>Through actions and decisions of the Local Executive Board and Officers of the Local between Local meetings may be overruled by the membership in Local meetings or by referendum.</li>
+	</ul>
 
-(a) Through action taken in membership meetings or by referendum of the membership.
-(b) Through actions and decision of the Local Executive Board between membership meetings.
-(c) Through actions and decision of the Local Officers between meetings of the Local Executive Board.
-
-(d) Through actions and decisions of the Local Executive Board and Officers of the Local between Local meetings may be overruled by the membership in Local meetings or by referendum.
-
-Section 2: Executive Board
+<h4>Section 2: Executive Board</h4>
 
 The Local Executive Board shall consist of the following members in the following rank:
 
-1. President of the Local
-2. Vice-President of the Local
-3. Secretary of the Local
-4. Treasurer of the Local
-5. Regional Representative(s)
+	<ol>
+		<li>President of the Local</li>
+		<li>Vice-President of the Local</li>
+		<li>Secretary of the Local</li>
+		<li>Treasurer of the Local</li>
+		<li>Regional Representative(s)</li>
+	</ol>
+	
+
+
+
+
+
 <h3><a id="localmeetings">ARTICLE 8: LOCAL MEETINGS</a></h3>
-(a) There shall be at least ten (10) regular Unit meetings called each year. The dates and location of such meetings shall be set by the President, Unit Chairperson and/or the Executive Board who shall give at least seven (7) days notice of same. Minutes of such meetings must be sent to the Local Secretary. If a quorum cannot be reached as per Article 11, the chairperson shall submit a signed copy of the meeting notice to the Local Secretary. This will be considered a meeting held in conjunction with Article 16, Section 3 (b).
+<ul>
+	<li>There shall be at least ten (10) regular Unit meetings called each year. The dates and location of such meetings shall be set by the President, Unit Chairperson and/or the Executive Board who shall give at least seven (7)days notice of same. Minutes of such meetings must be sent to the Local Secretary. If a quorum cannot be reached as per Article 11, the chairperson shall submit a signed copy of the meeting notice to the Local Secretary. This will be considered a meeting held in conjunction with Article 16, Section 3 (b).</li>
 
-(b) Special meetings shall be called, within their jurisdiction, by the President, Unit Chairperson or by the Secretary of the Local upon written receipt of a request from a majority of the Local, Unit Officers or a petition signed by twenty person (20%) of the Unit or by a majority of members voting on the question at a regular monthly Unit meeting. Upon receipt of such a request, a meeting shall be called within ten (10) days, and notices of such meeting shall be posted at least seven (7) days prior to the meeting. The notice shall state the nature of business to be transacted at the meeting and no business other than that specified in the notice shall be transacted at such meeting.
+	<li>Special meetings shall be called, within their jurisdiction, by the President, Unit Chairperson or by the Secretary of the Local upon written receipt of a request from a majority of the Local, Unit Officers or a petition signed by twenty person (20%) of the Unit or by a majority of members voting on the question at a regular monthly Unit meeting. Upon receipt of such a request, a meeting shall be called within ten (10) days, and notices of such meeting shall be posted at least seven (7) days prior to the meeting. The notice shall state the nature of business to be transacted at the meeting and no business other than that specified in the notice shall be transacted at such meeting.</li>
+</ul>
+
+
+
+
+
 <h3><a id="localexecutiveboardmeetings">ARTICLE 9: LOCAL EXECUTIVE BOARD MEETINGS</a></h3>
-(a) The Local Executive Board shall meet as frequently as is determined necessary by a majority of the Executive Board, and at a time and place to be determined by a majority of the Local Executive Officers, in consultation with the Local Executive Board. Every effort will be made to have three (3) meetings each year.
 
-(b) A copy of minutes of such meetings shall be forwarded to each Executive Board Member and Unit Chairperson and be made available at the regular monthly meetings of all Units. Minutes of such meetings shall be made available to any local member upon request to the Local Secretary.
+<ol>
+	<li>The Local Executive Board shall meet as frequently as is determined necessary by a majority of the Executive Board, and at a time and place to be determined by a majority of the Local Executive Officers, in consultation with the Local Executive Board. Every effort will be made to have three (3) meetings each year.</li>
+	<li>A copy of minutes of such meetings shall be forwarded to each Executive Board Member and Unit Chairperson and be made available at the regular monthly meetings of all Units. Minutes of such meetings shall be made available to any local member upon request to the Local Secretary.</li>
+	<li>Business to be dealt with between meetings may be accomplished by conference calls and/or other means of communication.</li>
+	<li>A Special meeting of the Local Executive Board may be called by a majority of the Local Executive Board members.</li>
+</ol>
 
-(c) Business to be dealt with between meetings may be accomplished by conference calls and/or other means of communication.
 
-(d) A Special meeting of the Local Executive Board may be called by a majority of the Local Executive Board members.
+
 <h3><a id="unitmeetings">ARTICLE 10: UNIT MEETINGS</a></h3>
-(a) A Unit may be formed upon application from an area subject to the approval of the Local Executive Board.
 
-(b)
-(i) A Unit shall consist of a Unit Chairperson elected by members of the Unit. The Unit Chairperson shall forward a copy of the minutes of each Unit meeting to the Local Secretary. Expenses incurred by the Unit shall be as per Article 10, Section (e) of these By-Laws.
-(ii) A Unit may also elect a Vice-Chair and/or a Recording Secretary, in accordance with these By-Laws.
+<ol>
+	<li>A Unit may be formed upon application from an area subject to the approval of the Local Executive Board.
+	</li>
+	<li><ol>
+		<li>A Unit shall consist of a Unit Chairperson elected by members of the Unit. The Unit Chairperson shall forward a copy of the minutes of each Unit meeting to the Local Secretary. Expenses incurred by the Unit shall be as per Article 10, Section (e) of these By-Laws.</li>
+		<li>A Unit may also elect a Vice-Chair and/or a Recording Secretary, in accordance with these By-Laws.</li>
+	</ol>
+</li>
+<li>The Unit Chairperson or Secretary shall submit a copy of the minutes to the Local Secretary following each Unit meeting.
+</li>
+<li>There shall be at least ten (10) monthly Unit meetings called each year for each Unit. The dates of such meetings shall be set by the Unit Executive and posted seven (7) days before the date of such meetings.
+</li>
+<li>A Unit shall submit bills for expenses to the Treasurer of the Local. Any expense must have prior approval of the Local President and the Treasurer.
+</li>
+<li>A Unit Officer(s) shall submit any concerns regarding the Local, in writing to the Local Executive Board to have it discussed at the next Local Executive Board meeting.
+</li>
+<li>A Unit cannot make policy for the Local Union unless by referendum of the entire Local membership.
+</li>
+<li>A Unit Chairperson shall prepare an agenda for each Unit meeting and chair such meeting.
+	<ol>
+		<li>In the event that the Unit Chairperson is unable to attend a Unit Meeting, where applicable the Vice Chair person or Secretary will perform the duties of the chairperson.
+		</li>
+		<li>In the event that there are no other Unit Executive officers, the Unit chairperson may appoint a member of the Unit to perform their duties, subject to recall by members of the Unit.
+		</li>
+	</ol>
+</li>
+<li>The following locations shall be considered as Units of Local 410: <br>
+	
+	<strong>Within the Labrador Region:</strong> <br>
+	Labrador City/Wabush <br>
+	Goose Bay<br>
 
-(c) The Unit Chairperson or Secretary shall submit a copy of the minutes to the Local Secretary following each Unit meeting.
+	<strong>Within the Western Region:</strong><br>
+	Port Aux Basques<br>
+	Stephenville<br>
+	Corner Brook<br>
 
-(d) There shall be at least ten (10) monthly Unit meetings called each year for each Unit. The dates of such meetings shall be set by the Unit Executive and posted seven (7) days before the date of such meetings.
-(e) A Unit shall submit bills for expenses to the Treasurer of the Local. Any expense must have prior approval of the Local President and the Treasurer.
+	<strong>Within the Central Region:</strong><br>
+	Grand Falls-Windsor<br>
+	Gander<br>
 
-(f) A Unit Officer(s) shall submit any concerns regarding the Local, in writing to the Local Executive Board to have it discussed at the next Local Executive Board meeting.
+	<strong>Within the Eastern Region:</strong><br>
+	Bay Roberts<br>
+	Clarenville<br>
+	Marystown<br>
 
-(g) A Unit cannot make policy for the Local Union unless by referendum of the entire Local membership.
+	<strong>Within the Eastern Avalon Region:</strong><br>
+	St. John’s/Mount Pearl<br>
 
-(h) A Unit Chairperson shall prepare an agenda for each Unit meeting and chair such meeting.
+</li>
+</ol>
 
-(i) In the event that the Unit Chairperson is unable to attend a Unit Meeting, where applicable the Vice Chair person or Secretary will perform the duties of the chairperson.
 
-(ii) In the event that there are no other Unit Executive officers, the Unit chairperson may appoint a member of the Unit to perform their duties, subject to recall by members of the Unit.
 
-(j) The following locations shall be considered as Units of Local 410:
 
-Within the Labrador Region:
-Labrador City/Wabush
-Goose Bay
 
-Within the Western Region:
-Port Aux Basques
-Stephenville
-Corner Brook
 
-Within the Central Region:
-Grand Falls-Windsor
-Gander
-
-Within the Eastern Region:
-Bay Roberts
-Clarenville
-Marystown
-
-Within the Eastern Avalon Region:
-St. John’s/Mount Pearl
 <h3><a id="quorum">ARTICLE 11: QUORUM</a></h3>
 A quorum for the transaction of business shall be as follows:
 
-Local meetings – the number of members present.
-Unit meetings – the number of members present.
-Special meeting – the number of members present.
-Local Executive Board meetings – a majority of the Board.
-Committee meetings – the number of members present.
+<ul>
+	<li>Local meetings – the number of members present.</li>
+	<li>Unit meetings – the number of members present.</li>
+	<li>Special meeting – the number of members present.</li>
+	<li>Local Executive Board meetings – a majority of the Board.</li>
+	<li>Committee meetings – the number of members present.</li>
+</ul>
+
+
+
+
+
 <h3><a id="orderofbusiness">ARTICLE 12: ORDER OF BUSINESS</a></h3>
 
-The order of business for the Local shall be as follows:
-(1) Call to Order
-(2) Roll Call
-(3) Read and/or Approve the Minutes of the Previous Meeting
-(4) Business Arising from Minutes
-(5) Financial Report
-(6) Communications
-(7) Committee Reports
-(8) Old Business
-(9) New Business
-(10) Adjournment
+<ol>
+	<li>The order of business for the Local shall be as follows:</li>
+	<li>Call to Order</li>
+	<li>Roll Call</li>
+	<li>Read and/or Approve the Minutes of the Previous Meeting</li>
+	<li>Business Arising from Minutes</li>
+	<li>Financial Report</li>
+	<li>Communications</li>
+	<li>Committee Reports</li>
+	<li>Old Business</li>
+	<li>New Business</li>
+	<li>Adjournment</li>
+</ol>
 
 All meetings shall be governed by Bourinot’s Rules of Order. At either a Local, Unit meeting the order of business may be suspended by a two-thirds (2/3) vote of the members present.
+
+
+
+
+
 <h3><a id="referendum">ARTICLE 13: REFERENDUM</a></h3>
 
 The Local Executive Board shall order a secret ballot referendum vote if a petition signed by twenty percent (20%) of the Local membership or by a petition signed by a majority of members of the Local Executive Board is received which calls for or certifies the desire for a referendum on any particular subject other than monetary assessments. The majority of the votes cast shall decide the referendum.
+
+
+
+
+
 <h3><a id="localofficersandthedutiesoflocalofficers">ARTICLE 14: LOCAL OFFICERS AND THE DUTIES OF LOCAL OFFICERS</a></h3>
-Section 1:
+<h4>Section 1:</h4>
 
 Local Officers are responsible to the Local Membership. The Officers of the Local shall be:
 
-(a) Local President
-(b) Local Vice-President
-(c) Local Secretary
-(d) Local Treasurer
+<ul>
+	<li>Local President</li>
+	<li>Local Vice-President</li>
+	<li>Local Secretary</li>
+	<li>Local Treasurer</li>
+</ul>
 
 Upon recommendation of the Executive Board and/or any member, and upon approval of the membership, the offices of Secretary and Treasurer may be combined.
-
-Section 2:
-
+ 
 Duties of the Local Officers, Grievance Committee Chairperson, Unit Chairperson, Stewards:
 
-(1) The Local President shall:
 
-(a) be responsible for the conduct of all Local business.
-(b) preside at Local membership, Executive Board, Special and Officers meetings.
-(c) prosecute grievances
-(d) supervise all Local Committees.
-(e) be the official spokesperson for the Local.
-(f) support and enforce the Constitution and these By-Laws and act within the policies established by the Union and the Local.
-(g) appoint and discharge special Committees, subject to the approval of the Local Executive Board.
-(h) be the first delegate to CEP, CLC and subsidiary body conventions.
-(i) approve in conjunction with the Treasurer, all bills to be paid and be one of the two signing Officers for cheques issued on behalf of the Local.
-(j) perform whatever additional duties may be assigned by the Local or required by the Policies or Constitution of the Union.
-(k) be an automatic member of bargaining teams with expenses being a Local responsibility.
-(l) be the first member of Local 410 to the Executive Board of the CEP Atlantic Communications Council.
-(m) support and enforce the Constitution(s) of the CEP and the Council and these by-laws and perform their duties within the polices established by the Union, the Council and the Local.
+<ol>
+	<li>The Local President shall:
+		<ol>
+			<li>be responsible for the conduct of all Local business.</li>
+			<li>preside at Local membership, Executive Board, Special and Officers meetings.</li>
+			<li>prosecute grievances</li>
+			<li>supervise all Local Committees.</li>
+			<li>be the official spokesperson for the Local.</li>
+			<li>support and enforce the Constitution and these By-Laws and act within the policies established by the Union and the Local.</li>
+			<li>appoint and discharge special Committees, subject to the approval of the Local Executive Board.</li>
+			<li>be the first delegate to CEP, CLC and subsidiary body conventions.</li>
+			<li>approve in conjunction with the Treasurer, all bills to be paid and be one of the two signing Officers for cheques issued on behalf of the Local.</li>
+			<li>perform whatever additional duties may be assigned by the Local or required by the Policies or Constitution of the Union.</li>
+			<li>be an automatic member of bargaining teams with expenses being a Local responsibility.</li>
+			<li>be the first member of Local 410 to the Executive Board of the CEP Atlantic Communications Council.</li>
+			<li>support and enforce the Constitution(s) of the CEP and the Council and these by-laws and perform their duties within the polices established by the Union, the Council and the Local.</li>
+		</ol>
+	</li>
+	
+	<li>The Local Vice-President shall:
+		<ol>
+			<li>work under the direction of the Local President and in his/her absence act on his/her behalf.</li>
+			<li>perform whatever duties may be assigned by the Local, the Local Executive Board or the President.</li>
+			<li>support and enforce the Constitution(s) of the CEP and the Council and these by-laws and perform their duties within the polices established by the Union the Council and the Local.</li>
+		</ol>
+	</li>
+	
+	<li>The Local Secretary shall:
+		<ol>
+			<li>maintain a record of local membership.</li>
+			<li>record and maintain the minutes of all meetings of the Local and the Local Executive Board.</li>
+			<li>receive and distribute minutes of Unit meetings to members of the Executive Board and Secretaries of all other Units.</li>
+			<li>furnish the Vice-President of the Region and the Secretary of the Union with copies of any changes in these by-laws within ten (10) days after such changes are made.</li>
+			<li>perform such other duties as may be assigned by the Local, the Executive Board or the Local President.</li>
+			<li>be responsible for maintenance of the Local Website.</li>
+			<li>support and enforce the Constitution(s) of the CEP and the Council and these by-laws and perform their duties within the polices established by the Union the Council and the Local.</li>
+		</ol>
+	</li>
+	
+	<li>The Local Treasurer shall:
+		<ol>
+			<li>be custodian of all assets of the Local and maintain accurate records of all financial transactions of the Local.</li>
+			<li>report in writing to each Local Executive Board meeting on the financial status of the Local, and send copies of all such reports to each Unit Secretary.</li>
+			<li>cause payment of all bills approved in accordance with these By-Laws and the CEP Constitution and countersign all cheques upon the Local Treasury.</li>
+			<li>be bonded, as must any other person who handles Local funds or other property in accordance with the Union Constitution or any law.</li>
+			<li>approve in conjunction with the Local President all bills to be paid and be one of the two signing Officers for cheques issued on behalf of the Local.</li>
+			<li>perform such duties as may be assigned by the Local, the Local Executive Board, or the President.</li>
+			<li>support and enforce the Constitution(s) of the CEP and the Council and these by-laws and perform their duties within the polices established by the Union the Council and the Local.</li>
+		</ol>
+	</li>
+	
+	<li>The Regional Representatives shall:
+		<ol>
+			<li>represent the region on the Local Executive Board</li>
+			<li>perform such other duties as may be assigned by the President or Local executive Board</li>
+			<li>support and enforce the Constitution(s) of the CEP and the Council and these by-laws and perform their duties within the polices established by the Union the Council and the Local.</li>
+		</ol>
+	</li>
+	
+	<li>The Unit Chairperson shall:
+		<ol>
+			<li>chair meetings of the Unit.</li>
+			<li>be responsible for conducting Unit business</li>
+			<li>be the liaison between the Unit and the Local.</li>
+			<li>perform such other duties as may be assigned by the President, the Unit or the Local Executive Board.</li>
+			<li>support and enforce the Constitution(s) of the CEP and the Council and these by-laws and perform their duties within the polices established by the Union the Council and the Local.</li>
+		</ol>
+	</li>
+	
+	<li>The Chief Steward of the Grievance Committee shall:
+		<ol>
+			<li>familiarize all Stewards within his/her jurisdiction with the appropriate bargaining agreement and thoroughly investigate all grievances.</li>
+			<li>keep the President and Local informed of the progress of grievances after the second stage in the Grievance Procedure.</li>
+			<li>issue a report on the progress of any grievance to Local and Unit Secretaries.</li>
+			<li>be a member of the Grievance Committee</li>
+			<li>keep accurate records of all grievances pursued</li>
+			<li>pursue all grievances after the first stage of the grievance procedure to its completion.</li>
+			<li>be familiar with Local, Provincial and Federal Labour Laws</li>
+			<li>perform such other duties as may be assigned by the Local President, the Local Executive Board or the Local.</li>
+			<li>support and enforce the Constitution(s) of the CEP and the Council and these by-laws and perform their duties within the polices established by the Union the Council and the Local.</li>
+		</ol>
+	</li>
+	
+	<li>Stewards shall:
+		<ol>
+			<li>be familiar with all provisions of the Collective Agreement and thoroughly investigate all grievances coming within his/her jurisdiction.</li>
+			<li>be completely familiar with the grievance procedure.</li>
+			<li>receive complaints and grievances from members and make every effort in conformity with the grievance procedure to satisfactorily settle all grievances.</li>
+			<li>refer all grievances that have not been satisfactorily settled at the appropriate stage to the Chairperson of the Grievance Committee</li>
+			<li>report all completed grievances to the Local</li>
+			<li>turn over all papers, documents, funds or other property at the conclusion of his/her term of office to the Local or to his/her successor in the office.</li>
+			<li>keep the members they represent informed of union matters.</li>
+			<li>be familiar with Local, Provincial and Federal Labour Laws.</li>
+			<li>have available at all times a copy of the current Local Collective Agreement, by-laws and Union Constitution</li>
+			<li>carry out such duties as may be prescribed by the President, the Local Executive Board or the Local.</li>
+			<li>support and enforce the Constitution(s) of the CEP and the Council and these by-laws and perform their duties within the polices established by the Union the Council and the Local.</li>
+		</ol>
+	</li>
+</ol>
+ 
 
-(2) The Local Vice-President shall:
 
-(a) work under the direction of the Local President and in his/her absence act on his/her behalf.
-(b) perform whatever duties may be assigned by the Local, the Local Executive Board or the President.
-(c) support and enforce the Constitution(s) of the CEP and the Council and these by-laws and perform their duties within the polices established by the Union the Council and the Local.
 
-(3) The Local Secretary shall:
-
-(a) maintain a record of local membership.
-(b) record and maintain the minutes of all meetings of the Local and the Local Executive Board.
-(c) receive and distribute minutes of Unit meetings to members of the Executive Board and Secretaries of all other Units.
-(d) furnish the Vice-President of the Region and the Secretary of the Union with copies of any changes in these by-laws within ten (10) days after such changes are made.
-(e) perform such other duties as may be assigned by the Local, the Executive Board or the Local President.
-(f) be responsible for maintenance of the Local Website.
-(g) support and enforce the Constitution(s) of the CEP and the Council and these by-laws and perform their duties within the polices established by the Union the Council and the Local.
-
-(4) The Local Treasurer shall:
-
-(a) be custodian of all assets of the Local and maintain accurate records of all financial transactions of the Local.
-(b) report in writing to each Local Executive Board meeting on the financial status of the Local, and send copies of all such reports to each Unit Secretary.
-(c) cause payment of all bills approved in accordance with these By-Laws and the CEP Constitution and countersign all cheques upon the Local Treasury.
-(d) be bonded, as must any other person who handles Local funds or other property in accordance with the Union Constitution or any law.
-(e) approve in conjunction with the Local President all bills to be paid and be one of the two signing Officers for cheques issued on behalf of the Local.
-(f) perform such duties as may be assigned by the Local, the Local Executive Board, or the President.
-(g) support and enforce the Constitution(s) of the CEP and the Council and these by-laws and perform their duties within the polices established by the Union the Council and the Local.
-
-(5) The Regional Representatives shall:
-
-(a) represent the region on the Local Executive Board
-(b) perform such other duties as may be assigned by the President or Local executive Board
-(c) support and enforce the Constitution(s) of the CEP and the Council and these by-laws and perform their duties within the polices established by the Union the Council and the Local.
-
-(6) The Unit Chairperson shall:
-
-(a) chair meetings of the Unit.
-(b) be responsible for conducting Unit business
-(c) be the liaison between the Unit and the Local.
-(d) perform such other duties as may be assigned by the President, the Unit or the Local Executive Board.
-(e) support and enforce the Constitution(s) of the CEP and the Council and these by-laws and perform their duties within the polices established by the Union the Council and the Local.
-
-(7) The Chief Steward of the Grievance Committee shall:
-
-(a) familiarize all Stewards within his/her jurisdiction with the appropriate bargaining agreement and thoroughly investigate all grievances.
-(b) keep the President and Local informed of the progress of grievances after the second stage in the Grievance Procedure.
-(c) issue a report on the progress of any grievance to Local and Unit Secretaries.
-(d) be a member of the Grievance Committee
-(e) keep accurate records of all grievances pursued
-(f) pursue all grievances after the first stage of the grievance procedure to its completion.
-(g) be familiar with Local, Provincial and Federal Labour Laws
-(h) perform such other duties as may be assigned by the Local President, the Local Executive Board or the Local.
-(i) support and enforce the Constitution(s) of the CEP and the Council and these by-laws and perform their duties within the polices established by the Union the Council and the Local.
-
-(8) Stewards shall:
-
-(a) be familiar with all provisions of the Collective Agreement and thoroughly investigate all grievances coming within his/her jurisdiction.
-(b) be completely familiar with the grievance procedure.
-(c) receive complaints and grievances from members and make every effort in conformity with the grievance procedure to satisfactorily settle all grievances.
-(d) refer all grievances that have not been satisfactorily settled at the appropriate stage to the Chairperson of the Grievance Committee
-(e) report all completed grievances to the Local
-(f) turn over all papers, documents, funds or other property at the conclusion of his/her term of office to the Local or to his/her successor in the office.
-(g) keep the members they represent informed of union matters.
-(h) be familiar with Local, Provincial and Federal Labour Laws.
-(i) have available at all times a copy of the current Local Collective Agreement, by-laws and Union Constitution
-(j) carry out such duties as may be prescribed by the President, the Local Executive Board or the Local.
-(k) support and enforce the Constitution(s) of the CEP and the Council and these by-laws and perform their duties within the polices established by the Union the Council and the Local.
 <h3><a id="localcommittees">ARTICLE 15: LOCAL COMMITTEES</a></h3>
 1. The regular Committees of the Local shall be gender balanced where possible or otherwise specified and shall include:
 
@@ -376,6 +495,11 @@ Participate on Joint Union/Company Committee and Report to the Executive and the
 (p) Women’s Committee
 
 Be informed, and inform, of political, social and economic impacts on women and women’s rights. Network with other Women’s Committees for information sharing and pursuit of common goals.
+
+
+
+
+
 <h3><a id="elections">ARTICLE 16 – ELECTIONS</a></h3>
 Section 1: Local and Unit Officers
 
@@ -473,6 +597,11 @@ Section 4: Local Committees
 Section 5: Appeals and Appointments
 
 (a) All questions concerning the conduct and challenge of elections shall be determined by the Election Committee, subject to the right of appeal to the Local Executive Board or Local membership.
+
+
+
+
+
 <h3><a id="bargainingcaucus">ARTICLE 17 – BARGAINING CAUCUS &amp; COMMITTEE</a></h3>
 
 Section 1: Bargaining Caucus
@@ -488,6 +617,11 @@ Bargaining Caucus Delegates will be comprised of the Local Executive Officers wh
 Section 2: Local 410 members on the CEPACC Bargaining Committee
 
 The first member to the CEPACC Bargaining Committee shall be the President. The Second and all subsequent members shall be a Table Officer(s), as elected by the Local membership as per Article 16.
+
+
+
+
+
 
 <h3><a id="expenses">ARTICLE 18: EXPENSES</a></h3>
 (1) Monthly incidental expense shall be paid to the Local Officers and Unit Chairpersons listed. The amount shall be determined by the appropriate percentage of the Group 13 weekly rate (40 hours per week), with the amount rounded to the nearest dollar, using standard rounding practice.
@@ -534,10 +668,25 @@ Each claimant shall submit an Expense Form every three (3) months to the Local T
 (12) All requests for cash advances, expense statements and receipts shall be completed in ink.
 
 (13) Cash advance cheques and expense cheques shall be separate.
+
+
+
+
+
 <h3><a id="vacancies">ARTICLE 19: VACANCIES</a></h3>
 Vacancies within the Local shall be filled in the same manner as that required for regular elections and within sixty (60) days as required by the Constitution.
+
+
+
+
+
 <h3><a id="oathofoffice">ARTICLE 20: OATH OF OFFICE</a></h3>
 Oath of Office shall be as per Article 21.01 of the Constitution of CEP.
+
+
+
+
+
 <h3><a id="charges,trialsandappeals">ARTICLE 21: CHARGES, TRIALS AND APPEALS</a></h3>
 (1) Charges: Members may be reprimanded, fined, suspended or expelled by the Local in the manner provided for in the Constitution under Article 17 for any of the following acts:
 
@@ -552,11 +701,21 @@ Oath of Office shall be as per Article 21.01 of the Constitution of CEP.
 (i) Taking any civil action, suit or proceeding in any court or before any administrative body, against the Union, or any of its subordinate bodies, or any officer or member of the Union without first exhausting all remedies provided for in the Constitution for appeal.
 (j) For such other offenses, equally serious, which tend to bring the Union or Local into disrepute.
 (k) Performing acting or temporary management work for the employer of a CEP Bargaining Unit whose Collective Agreement is expired.
+
+
+
+
+
 <h3><a id="recall">ARTICLE 22: RECALL</a></h3>
 
 (a) Any elected Officer of this Local may be recalled in accordance with the provisions of Article 17 of the Union Constitution.
 
 (b) Any Steward, Regional Representative, Unit Chairperson, Vice Chairperson, or Secretary may be recalled by a petition of two-thirds (2/3) of the members of their voting constituency. Attached to the petition shall be a description of the offense or offenses and the approximate dates thereof. The petition shall be filed with the Secretary of the Local. They may also be recalled under the rules of Article 17 of the Union Constitution.
+
+
+
+
+
 <h3><a id="membership">ARTICLE 23: ADOPTION AND AMENDMENTS</a></h3>
 Any amendments of these By-Laws shall be submitted in writing to the Local Executive Board and the By-Laws Committee at least 30 days in advance of a membership meetings or referendum vote on the question.
 
@@ -565,8 +724,18 @@ These By-Laws may be adopted and amended by:
 A majority vote by secret ballot of the members present at regular and/or special Unit meetings. Notice of agenda shall be given at least fourteen (14) days in advance.
 
 Regular business must be suspended by a 2/3 majority vote before discussing By-Laws at monthly meetings or Article 8, Paragraph (b) may be used.
+
+
+
+
+
 <h3><a id="strikes">ARTICLE 24: STRIKES</a></h3>
 Strikes and Strike votes shall be conducted as per Article 16 or the Union Constitution.
+
+
+
+
+
 <h3><a id="miscellaneous">ARTICLE 25: MISCELLANEOUS</a></h3>
 (a) Whenever in these By-Laws the word Constitution is mentioned, the Constitution is meant to be that of the Communications, Energy and Paperworkers Union of Canada.
 
@@ -644,4 +813,3 @@ b) CEP Local 410 will donate $0.20 per member annually to the Newfoundland Spina
 		</div><!-- #primary .content-area -->
 
 <?php get_footer(); ?>
-  
