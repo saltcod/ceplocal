@@ -48,7 +48,7 @@ body {
   padding: 0 25px 10px;
 }
 #main {
-  margin-top: -30px;
+  margin-top: -34px;
   position: relative;
 }
 body.home #main {
@@ -73,6 +73,7 @@ header#masthead {
 header#masthead h1.site-title {
   font-size: 45px;
   margin-top: 0;
+  margin-bottom: .2em;
   text-align: center;
   font-weight: 600;
 }
@@ -101,17 +102,21 @@ header#masthead .representing {
   position: absolute;
   top: 80px;
   left: 0;
+  width: 85px;
+}
+header#masthead .union-logo {
+  position: absolute;
+  top: 90px;
+  right: 0;
   width: 125px;
 }
 header#masthead .contact {
-  position: absolute;
-  top: 95px;
-  right: 0;
-  width: 130px;
-  color: #999;
   font: 12px Georgia, Century Schoolbook, serif, serif;
   font-style: italic;
   text-align: center;
+  color: #999;
+  width: 100%;
+  margin: 5px 0 25px 0;
 }
 body.home header#masthead .hero {
   height: 250px;
