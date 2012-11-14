@@ -15,10 +15,10 @@
 		<div class="site-info">
 			 <span class="in-touch">Get in touch <span class="slash">/</span></span>
 
-			 <span class="telephone">(709) 555 5555 <span class="slash">/</span></span>
+			 <span class="telephone">709 726 5550 <span class="slash">/</span></span>
 
-			 <span class="email"><a mailto:"ceplocal410@gmail.com">ceplocal410@gmail.com</a><span class="slash">/</span></span>
-			 <span class="location last">21 Bell's Turn, St. John's</span>
+			 <span class="email"><a href ="mailto:cep410.2121@gmail.com">cep410.2121@gmail.com</a><span class="slash">/</span></span>
+			 <span class="location last">330A Portugal Cove Place</span>
 
 		</div><!-- .site-info -->
 	</footer><!-- #colophon .site-footer -->

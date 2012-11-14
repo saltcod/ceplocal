@@ -51,6 +51,10 @@
 		<hgroup>
 			<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
 			<h1 class="site-title"><a href="<?php echo home_url( '/' ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
+			
+			<div class="contact group">
+				709 726 5550  / <a href ="mailto:cep410.2121@gmail.com">cep410.2121@gmail.com</a>
+			</div>
 		</hgroup>
 
 		<nav role="navigation" class="site-navigation main-navigation group">
@@ -60,11 +64,9 @@
 			<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
 		</nav><!-- .site-navigation .main-navigation -->
 		
-		<div class="representing"> <img src="<?php echo get_template_directory_uri();?>/images/representing.png"> </div>
+		<div class="representing"> <img src="<?php echo get_template_directory_uri();?>/images/cep-logo.png"> </div>
+		<div class="union-logo"> <img src="<?php echo get_template_directory_uri();?>/images/representing.png"> </div>
 		
-		<div class="contact group">
-			709 555 5555 <br> <a href="#">ceplocal410@gmail.com</a>
-		</div>
 		<div class="hero group"></div>
 
 	</header><!-- #masthead .site-header -->
