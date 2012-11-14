@@ -399,212 +399,196 @@ Duties of the Local Officers, Grievance Committee Chairperson, Unit Chairperson,
 
 
 <h3><a id="localcommittees">ARTICLE 15: LOCAL COMMITTEES</a></h3>
-1. The regular Committees of the Local shall be gender balanced where possible or otherwise specified and shall include:
+  <ol>
 
-(a) Membership Committee
-(b) Election Committee
-(c) Organizing Committee
-(d) Education Committee
-(e) Legislative Committee
-(f) Grievance Committee
-(g) Trustee Committee
-(h) Social Committee
-(i) E.A.P. Committee
-(j) By-Laws Committee
-(k) Pension Committee
-(l) Occupational Safety &amp; Health Committee
-(m) Pay Equity Committee
-(n) Employment Equity Committee
-(o) Workers’ Compensation Committee
-(p) Women’s Committee
-
-2. Members of all Committees, except the Trustee Committee and the Bargaining Committee shall be appointed by the President or by a majority vote of the Local Executive Board, subject to the right of the Local Membership to overrule such appointments and/or make such appointments at meetings of the membership.
-
-3. Vacancies on Committees shall be made in the same manner as the original appointments.
-4. A member of any Local Committee may be removed by a majority vote of the Local Executive Board, subject to the right of the Local to overrule the action of the Local Executive Board. A Committee member may also be removed by action of the Local in membership meetings.
-
-5. Executive structure of Committees will be handled by the members of the Committee.
-6. Duties of Committees:
-(a) Membership Committee
-The Membership Committee or Committees shall accept or reject membership applications in accordance with the by-laws and rules of this Local and Article 5 of the CEP Constitution and Policies of the Union. All Membership applications must be reported at the next monthly Local Membership meeting.
-
-(b) Election Committee
-
-The Election Committee shall conduct all nominations and elections and referenda of this Local. The Election Committee, whether it be at the Local or Unit level, shall consist of at least three (3) members. No candidate for office or member of the Local or Unit Executive shall be members of the Election Committee. The Election Committee shall turn over to the Local Secretary all ballots and records used in an election or referendum to be preserved for a period of six (6) months following such elections or referendum.
-
-(c) Organizing Committee
-
-The Organizing Committee shall assist the Local Officers and members in organizing all non-union employees within the Local’s jurisdiction.
-
-(d) Education Committee
-
-The Education Committee shall assist in developing the Local’s educational program and, with the Local Officers, be responsible for effectuating the Union’s and Local’s educational programs.
-
-(e) Legislative Committee
-
-The Legislative Committee shall assist in developing and pursuing the program of the Union and the Local in the legislative field.
-
-(f) Grievance Committee
-
-The Grievance Committee shall review grievances and complaints being handled by the Local to determine appropriate courses of action to follow, as the need may arise.
-
-(g) Trustee Committee
-
-1. Exercise general supervision over the property of the Local, subject to such instructions as they may receive from the Local.
-
-2. Audit the books of the Local at the end of every three months of the Local’s fiscal year and make a report to the Local thereon, also an annual audit at the beginning of each fiscal year.
-
-3. Verify that all transactions involving Local funds and properties were properly authorized.
-
-4. Require that any Officer of the Local handling funds of the Local be bonded in accordance with the Union Constitution or any law.
-
-5. Five (5) Members of a Trustee Committee shall be elected at a regular monthly meeting: One (1) to hold office for three (3) years; two (2) to hold office for two (2) years; and, two (2) to hold office for one (1) year. The Committee must have the Chairperson and at least two (2) other members of the Committee present to conduct its business and to do an official audit of the Local Union books. The term for the Chairperson shall not exceed three (3) consecutive years.
-
-(h) Social Committee
-
-This Committee shall promote and conduct the social activities of the Local. Their responsibility also includes the administration of Scholarship, Acknowledgements of Bereavements, Sickness and Retirements.
-
-(i) E.A.P. Committee
-
-To be part of the Union/Company Joint Committee of the Employee Assistance Program.
-
-(j) By-Laws Committee
-
-The By-Laws Committee shall meet on a yearly basis to review the By-Laws and recommend any revisions if necessary. The Committee must have a representative from each Bargaining Unit where possible.
-
-(k) Pension Committee
-
-Participate on Joint Union/Company Committee and report to the Executive Board and the Membership.
-
-(l) Occupational Safety &amp; Health Committee
-
-Police and enforce Occupational Safety and Health in the workplace and participate on Joint Occupational Safety and Health Committees and report to the Executive and the Membership.
-
-(m) Pay Equity/Job Evaluation Committee
-
-Participate on Joint Union/Company Committee(s) and report to the Executive and the Membership.
-
-(n) Employment Equity Committee
-
-Participate on Joint Union/Company Committee and report to the Executive and the Membership.
-
-(o) Workers’ Compensation Committee
-
-Participate on Joint Union/Company Committee and Report to the Executive and the Membership.
-
-(p) Women’s Committee
-
-Be informed, and inform, of political, social and economic impacts on women and women’s rights. Network with other Women’s Committees for information sharing and pursuit of common goals.
+  <li>The regular Committees of the Local shall be gender balanced where possible or otherwise specified and shall include:
+	<ol>
+		<li>Membership Committee</li>
+		<li>Election Committee</li>
+		<li>Organizing Committee</li>
+		<li>Education Committee</li>
+		<li>Legislative Committee</li>
+		<li>Grievance Committee</li>
+		<li>Trustee Committee</li>
+		<li>Social Committee</li>
+		<li>E.A.P. Committee</li>
+		<li>By-Laws Committee</li>
+		<li>Pension Committee</li>
+		<li>Occupational Safety &amp; Health Committee</li>
+		<li>Pay Equity Committee</li>
+		<li>Employment Equity Committee</li>
+		<li>Workers’ Compensation Committee</li>
+		<li>Women’s Committee</li>
+	</ol>
+</li>
 
 
+<li>Members of all Committees, except the Trustee Committee and the Bargaining Committee shall be appointed by the President or by a majority vote of the Local Executive Board, subject to the right of the Local Membership to overrule such appointments and/or make such appointments at meetings of the membership.</li>
+<li>Vacancies on Committees shall be made in the same manner as the original appointments.</li>
+<li>A member of any Local Committee may be removed by a majority vote of the Local Executive Board, subject to the right of the Local to overrule the action of the Local Executive Board. A Committee member may also be removed by action of the Local in membership meetings.</li>
+<li>Executive structure of Committees will be handled by the members of the Committee.</li>
+<li>Duties of Committees:
+	<ol>
+		<li><strong>Membership Committee</strong>
+			The Membership Committee or Committees shall accept or reject membership applications in accordance with the by-laws and rules of this Local and Article 5 of the CEP Constitution and Policies of the Union. All Membership applications must be reported at the next monthly Local Membership meeting.</li>
+
+		<li><strong>Election Committee</strong>
+
+		The Election Committee shall conduct all nominations and elections and referenda of this Local. The Election Committee, whether it be at the Local or Unit level, shall consist of at least three (3) members. No candidate for office or member of the Local or Unit Executive shall be members of the Election Committee. The Election Committee shall turn over to the Local Secretary all ballots and records used in an election or referendum to be preserved for a period of six (6) months following such elections or referendum.</li>
+
+		<li><strong>Organizing Committee</strong>
+
+		The Organizing Committee shall assist the Local Officers and members in organizing all non-union employees within the Local’s jurisdiction.</li>
+
+		<li><strong>Education Committee</strong>
+
+		The Education Committee shall assist in developing the Local’s educational program and, with the Local Officers, be responsible for effectuating the Union’s and Local’s educational programs.</li>
+
+		<li><strong>Legislative Committee</strong>
+
+		The Legislative Committee shall assist in developing and pursuing the program of the Union and the Local in the legislative field.</li>
+
+		<li><strong>Grievance Committee</strong>
+
+		The Grievance Committee shall review grievances and complaints being handled by the Local to determine appropriate courses of action to follow, as the need may arise.</li>
+
+		<li><strong>Trustee Committee</strong>
+			<ol>
+				<li>Exercise general supervision over the property of the Local, subject to such instructions as they may receive from the Local.</li>
+				<li>Audit the books of the Local at the end of every three months of the Local’s fiscal year and make a report to the Local thereon, also an annual audit at the beginning of each fiscal year.</li>
+				<li>Verify that all transactions involving Local funds and properties were properly authorized.</li>
+				<li>Require that any Officer of the Local handling funds of the Local be bonded in accordance with the Union Constitution or any law.</li>
+				<li>Five (5) Members of a Trustee Committee shall be elected at a regular monthly meeting: One (1) to hold office for three (3) years; two (2) to hold office for two (2) years; and, two (2) to hold office for one (1) year. The Committee must have the Chairperson and at least two (2) other members of the Committee present to conduct its business and to do an official audit of the Local Union books. The term for the Chairperson shall not exceed three (3) consecutive years.</li>
+			</ol>
+		</li>
+		
+		<li><strong>Social Committee</strong>
+			This Committee shall promote and conduct the social activities of the Local. Their responsibility also includes the administration of Scholarship, Acknowledgements of Bereavements, Sickness and Retirements.
+		</li>
+		<li><strong>E.A.P. Committee</strong> To be part of the Union/Company Joint Committee of the Employee Assistance Program.</li>
+		<li><strong>By-Laws Committee</strong> The By-Laws Committee shall meet on a yearly basis to review the By-Laws and recommend any revisions if necessary. The Committee must have a representative from each Bargaining Unit where possible.</li>
+		<li><strong>Pension Committee</strong> Participate on Joint Union/Company Committee and report to the Executive Board and the Membership.</li>
+		<li><strong>Occupational Safety &amp; Health Committee</strong> Police and enforce Occupational Safety and Health in the workplace and participate on Joint Occupational Safety and Health Committees and report to the Executive and the Membership.</li>
+		<li><strong>Pay Equity/Job Evaluation Committee</strong> Participate on Joint Union/Company Committee(s) and report to the Executive and the Membership.</li>
+		<li><strong>Employment Equity Committee</strong> Participate on Joint Union/Company Committee and report to the Executive and the Membership.</li>
+		<li><strong>Workers’ Compensation Committee</strong> Participate on Joint Union/Company Committee and Report to the Executive and the Membership.</li>
+		<li><strong>Women’s Committee</strong> Be informed, and inform, of political, social and economic impacts on women and women’s rights. Network with other Women’s Committees for information sharing and pursuit of common goals.</li>
+		
+		
+	</ol>
+</li>
+
+</ol>
 
 
 
 <h3><a id="elections">ARTICLE 16 – ELECTIONS</a></h3>
-Section 1: Local and Unit Officers
+<h4>Section 1: Local and Unit Officers</h4>
 
-(a) The term of office for the Local President, Vice-President, Secretary and Treasurer and for the Unit officers and Regional Representatives shall be 2 years. They shall be nominated and elected in August through December in the year previous to the beginning of the new term. Only members in good standing shall be eligible to vote and/or hold office.
+<ol>
+	<li>The term of office for the Local President, Vice-President, Secretary and Treasurer and for the Unit officers and Regional Representatives shall be 2 years. They shall be nominated and elected in August through December in the year previous to the beginning of the new term. Only members in good standing shall be eligible to vote and/or hold office.</li>
+	<li>The President, Vice-President, Secretary and Treasurer shall be elected by the membership at large. The Unit Officers and Regional Representatives shall be elected by members in their respective areas. In the event that there is not a nominee(s) with a majority of votes a run-off election shall be held as per Article 14.04 of the Constitution.</li>
+	<li>All elections shall be carried out per Article 14 of the Union Constitution and the Rules of these By-Laws.</li>
+	<li>No member can be a candidate for more than one office. If nominated for more than one (1) office, the member must declare immediately of which office he/she will be a candidate. This shall not apply to offices which have been combined with the approval of the National President.</li>
+	<li>Nominations for all Officers will be closed September 15th of the election year. Candidates who have declared their intentions will be announced at the next regular monthly meeting.</li>
+	<li>Members of one unit may nominate members of another unit for Local Union office. It is not necessary that such nominees be confined to a particular unit. A member placing the name of another member in nomination for office when the nominated member is not present shall at the time the nomination is made, give to a member of the Election Committee evidence in writing signed by the nominee that the nominee agrees to be a candidate for a specific Local or Unit Office. Any member being nominated in this manner cannot signify his/her intentions to be a candidate for more than one specific office.</li>
+	<li>Immediately after nominations, the Election Committee Chairperson shall forward a list of the candidates to the Secretary of the Local.</li>
+	<li>After nominations have closed, the Election Committee shall conduct the election. No candidate for office shall be eligible to serve on the election Committee or conduct balloting.</li>
+	<li>After nominations have been made and those nominated have found to qualified, the Election Committee shall have ballots prepared, listing in alphabetical order the names of all candidates for each respective office. Such ballots shall not contain any identifying numbers or marks.</li>
+	<li>The Election Committee shall decide the last day on which ballots shall be received and the date, time and place when the ballots will be counted. Members shall have a minimum of 21 days to vote.</li>
+	<li>Where deemed feasible and practical by the elections committee voting shall be carried out by any one or combination of the following: (a) desk drop, (b) mail out ballots, (c) a polling station. Any expense incurred shall be approved as per Article 14 Section 2 of these By-Laws.</li>
+	<li>When voting is done by desk drop it will be done in the following manner:
+		<ol>
+			<li>Each ballot will be of the same colour and bear the Local 410 stamp in red.</li>
+			<li>The Election Committee Chairperson or another appointed person shall issue all ballots to the appropriate stewards or other persons who have been recruited by the Election Committee to conduct balloting. A record will be kept of the people conducting the balloting and the number of ballots each one possesses. Copying of ballots is prohibited.</li>
+			<li>A large sealed envelope, with a slot just wide enough for the entry of ballot will act as a ballot box. The seal shall be signed by at least two members of the Election Committee or their designates.</li>
+			<li>As each member votes, they should print and sign their name to a sheet provided by the person conducting the balloting, indicating that they have voted.</li>
+			<li>All ballots, both used and unused, must be returned to the Election Committee at the completion of balloting, along with the list of members’ signatures.</li>
+		</ol>
+	</li>
 
-(b) The President, Vice-President, Secretary and Treasurer shall be elected by the membership at large. The Unit Officers and Regional Representatives shall be elected by members in their respective areas. In the event that there is not a nominee(s) with a majority of votes a run-off election shall be held as per Article 14.04 of the Constitution.
+<li>Where a mail-out ballot is required it shall be done in the following manner:
 
-(c) All elections shall be carried out per Article 14 of the Union Constitution and the Rules of these By-Laws.
+	<ol>
+		<li>Each ballot will be of the same colour and bear the Local 410 stamp in red.</li>
+		<li>The Election Committee Chairperson or another appointed person shall issue all ballots to the appropriate stewards or other persons who have been recruited by the Election Committee to conduct balloting. A record will be kept of the people conducting the balloting and the number of ballots each one possesses. Copying of ballots is prohibited.</li>
+		<li>The Election Committee shall select a depository to where the envelopes containing the ballots shall be mailed. This should be the Local Union Post Office Box or headquarters. Cost of such depository shall be borne by the Local. The Election Committee shall advise the Local Secretary of the depository address in sufficient time for the Local Secretary to prepare the addressed envelopes.</li>
+		<li>The Election Committee shall open the envelopes, remove the smaller envelope marked “Official Ballot” stamped and deposit same in the ballot box with the other ballots. No envelope received later than the closing time and date as determined and announced by the Election Committee shall be opened or counted.</li>
+	</ol>
+</li>
 
-(d) No member can be a candidate for more than one office. If nominated for more than one (1) office, the member must declare immediately of which office he/she will be a candidate. This shall not apply to offices which have been combined with the approval of the National President.
+<li>When voting is done by polling station it will be done in the following manner:
 
-(e) Nominations for all Officers will be closed September 15th of the election year. Candidates who have declared their intentions will be announced at the next regular monthly meeting.
+	<ol>
+		<li>Each ballot will be of the same colour and bear the Local 410 stamp in red.</li>
+		<li>The Election Committee Chairperson or another appointed person, shall issue all ballots to the appropriate stewards or other person who have been recruited by the Election Committee to conduct balloting. A record will be kept of the people conducting the balloting and the number of ballots each one possesses. Copying of ballots is prohibited.</li>
+		<li>A large sealed envelope, with a slot just wide enough for the entry of ballot will act as a ballot box. The seal shall be signed by at least two members of the Election Committee.</li>
+		<li>As each member votes, they should print and sign their name to a sheet provided by the person conducting the balloting, indicating that they have voted.</li>
+		<li>All ballots, both used and unused, must be returned to the Election Committee at the completion of balloting, along with the list of members’ signatures.</li>
+		<li>A locked ballot box may be used in lieu of a large sealed envelope.</li>
+	</ol>
+</li>
 
-(f) Members of one unit may nominate members of another unit for Local Union office. It is not necessary that such nominees be confined to a particular unit. A member placing the name of another member in nomination for office when the nominated member is not present shall at the time the nomination is made, give to a member of the Election Committee evidence in writing signed by the nominee that the nominee agrees to be a candidate for a specific Local or Unit Office. Any member being nominated in this manner cannot signify his/her intentions to be a candidate for more than one specific office.
+<li>The Election Committee shall count the ballots and certify the results in writing to the Local Executive Board. The Local Secretary shall notify each Unit Secretary of the results of the vote.
 
-(g) Immediately after nominations, the Election Committee Chairperson shall forward a list of the candidates to the Secretary of the Local.
+<li>All elections records including ballots shall be preserved for six (6) months from the date of election, after which same shall be destroyed unless instructed otherwise by the President, the Local Executive or the Local.
 
-(h) After nominations have closed, the Election Committee shall conduct the election. No candidate for office shall be eligible to serve on the election Committee or conduct balloting.
+<li>All candidates have the right to vote but shall not conduct balloting in any manner. Any candidate for office may be present or have a member present at the counting of the ballots.
 
-(i) After nominations have been made and those nominated have found to qualified, the Election Committee shall have ballots prepared, listing in alphabetical order the names of all candidates for each respective office. Such ballots shall not contain any identifying numbers or marks.
+<li>All Local and Unit Officers shall take office January 1st of the succeeding year except in cases of vacancies. In this case, the person shall take office immediately upon being declared elected by the Election Committee.
 
-(j) The Election Committee shall decide the last day on which ballots shall be received and the date, time and place when the ballots will be counted. Members shall have a minimum of 21 days to vote.
+<li>
+	<ol>
+		<li>At the completion of the election for Unit Chairpersons there shall be al nomination period of at least fourteen (14) days for the nomination for the office of regional reps.</li>
+		<li>Only Unit Chairpersons shall be eligible to run for the office of regional rep, and only within their respective region.</li>
+		<li>Regional reps shall be elected by the members within their respective regions.</li>
+	</ol>
+</li>
+<h4>Section 2: Stewards</h4>
+	<ol>
+		<li>Stewards shall be elected by secret ballot vote by the group of members they will represent, however where the members fail to elect a steward, the Local President may appoint one, subject to the right of the Local membership to overrule such appointment.
+		<li>Stewards shall be elected for a period of two (2) years by the members of their group and elections shall be held in January of each odd-numbered year.
+		<li>When a vacancy occurs in the position of steward, a successor shall be immediately elected or appointed as per Article 16, Section 2 (o).
+	</ol>
+	
+<h4>Section 3: Convention and Conference Delegates</h4>
+<ol>
+<li>The President of the Local or the Presidents designate, who shall be a table officer, shall be the head of the delegation and the first delegate to all CEP, CLC, Council and subsidiary body conventions. The other delegates to Conventions except the CLC Convention shall be as follows:
 
-(k) Where deemed feasible and practical by the elections committee voting shall be carried out by any one or combination of the following: (a) desk drop, (b) mail out ballots, (c) a polling station. Any expense incurred shall be approved as per Article 14 Section 2 of these By-Laws.
-
-(l) When voting is done by desk drop it will be done in the following manner:
-
-(i) Each ballot will be of the same colour and bear the Local 410 stamp in red.
-(ii) The Election Committee Chairperson or another appointed person shall issue all ballots to the appropriate stewards or other persons who have been recruited by the Election Committee to conduct balloting. A record will be kept of the people conducting the balloting and the number of ballots each one possesses. Copying of ballots is prohibited.
-(iii) A large sealed envelope, with a slot just wide enough for the entry of ballot will act as a ballot box. The seal shall be signed by at least two members of the Election Committee or their designates.
-(iv) As each member votes, they should print and sign their name to a sheet provided by the person conducting the balloting, indicating that they have voted.
-(v) All ballots, both used and unused, must be returned to the Election Committee at the completion of balloting, along with the list of members’ signatures.
-
-(m) Where a mail-out ballot is required it shall be done in the following manner:
-
-(i) Each ballot will be of the same colour and bear the Local 410 stamp in red.
-(ii) The Election Committee Chairperson or another appointed person shall issue all ballots to the appropriate stewards or other persons who have been recruited by the Election Committee to conduct balloting. A record will be kept of the people conducting the balloting and the number of ballots each one possesses. Copying of ballots is prohibited.
-(iii) The Election Committee shall select a depository to where the envelopes containing the ballots shall be mailed. This should be the Local Union Post Office Box or headquarters. Cost of such depository shall be borne by the Local. The Election Committee shall advise the Local Secretary of the depository address in sufficient time for the Local Secretary to prepare the addressed envelopes.
-(iv) The Election Committee shall open the envelopes, remove the smaller envelope marked “Official Ballot” stamped and deposit same in the ballot box with the other ballots. No envelope received later than the closing time and date as determined and announced by the Election Committee shall be opened or counted.
-
-(n) When voting is done by polling station it will be done in the following manner:
-
-(i) Each ballot will be of the same colour and bear the Local 410 stamp in red.
-(ii) The Election Committee Chairperson or another appointed person, shall issue all ballots to the appropriate stewards or other person who have been recruited by the Election Committee to conduct balloting. A record will be kept of the people conducting the balloting and the number of ballots each one possesses. Copying of ballots is prohibited.
-(iii) A large sealed envelope, with a slot just wide enough for the entry of ballot will act as a ballot box. The seal shall be signed by at least two members of the Election Committee.
-(iv) As each member votes, they should print and sign their name to a sheet provided by the person conducting the balloting, indicating that they have voted.
-(v) All ballots, both used and unused, must be returned to the Election Committee at the completion of balloting, along with the list of members’ signatures.
-(vi) A locked ballot box may be used in lieu of a large sealed envelope.
-
-(o) The Election Committee shall count the ballots and certify the results in writing to the Local Executive Board. The Local Secretary shall notify each Unit Secretary of the results of the vote.
-
-(p) All elections records including ballots shall be preserved for six (6) months from the date of election, after which same shall be destroyed unless instructed otherwise by the President, the Local Executive or the Local.
-
-(q) All candidates have the right to vote but shall not conduct balloting in any manner. Any candidate for office may be present or have a member present at the counting of the ballots.
-
-(r) All Local and Unit Officers shall take office January 1st of the succeeding year except in cases of vacancies. In this case, the person shall take office immediately upon being declared elected by the Election Committee.
-
-(s)
-(i) At the completion of the election for Unit Chairpersons there shall be al nomination period of at least fourteen (14) days for the nomination for the office of regional reps.
-(ii) Only Unit Chairpersons shall be eligible to run for the office of regional rep, and only within their respective region.
-(iii) Regional reps shall be elected by the members within their respective regions.
-
-Section 2: Stewards
-
-(a) Stewards shall be elected by secret ballot vote by the group of members they will represent, however where the members fail to elect a steward, the Local President may appoint one, subject to the right of the Local membership to overrule such appointment.
-
-(b) Stewards shall be elected for a period of two (2) years by the members of their group and elections shall be held in January of each odd-numbered year.
-
-(c) When a vacancy occurs in the position of steward, a successor shall be immediately elected or appointed as per Article 16, Section 2 (o).
-
-Section 3: Convention and Conference Delegates
-
-(a) The President of the Local or the Presidents designate, who shall be a table officer, shall be the head of the delegation and the first delegate to all CEP, CLC, Council and subsidiary body conventions. The other delegates to Conventions except the CLC Convention shall be as follows:
-
-(i) The second delegate shall be a table officer,
-(ii) Third delegate shall be a rank and file member,
-(iii) Fourth delegate shall be a rand and file member,
-(iv) Fifth delegate shall be a table officer,
-(v) Any and all other delegates shall be rank and file members.
-
+	<ol>
+		<li>The second delegate shall be a table officer,</li>
+		<li>Third delegate shall be a rank and file member,</li>
+		<li>Fourth delegate shall be a rand and file member,</li>
+		<li>Fifth delegate shall be a table officer,</li>
+		<li>Any and all other delegates shall be rank and file members.</li>
+	</ol>
 If no Table officer(s) run(s) for second and/or fifth delegate position(s), those positions shall be filled by duly elected rank and file members. Table Officers and Regional Representatives may run as rank and file members under this article. The Table Officers shall decide the number of delegates to each convention and/or conference up to and including the maximum allowed under the appropriate constitution, by-laws and/or guidelines.
-
 President-Elect, where applicable, may attend either convention as an alternate.
+</li>
 
-(b) Delegates, except the President or President Designate that the Local is entitled to send shall be elected by referendum. The Delegates must have a 60% or better attendance record at the 10 required regular monthly Unit meetings for the twelve month period immediately prior to the closing date for nominations to the Convention or Conference in question. Meetings which a member was prevented from attending because of such member’s union activities, working hours, service in the armed forces of Canada, sickness which confines, death in the immediate family, or jury duty, shall not be counted as meetings missed in determining such member’s eligibility under this Section; provided that the member shall have the burdened of proving inability to attend for one of the prescribed reasons, and such proof shall be provided within 30 days of the meeting the member was unable to attend.
+<li>Delegates, except the President or President Designate that the Local is entitled to send shall be elected by referendum. The Delegates must have a 60% or better attendance record at the 10 required regular monthly Unit meetings for the twelve month period immediately prior to the closing date for nominations to the Convention or Conference in question. Meetings which a member was prevented from attending because of such member’s union activities, working hours, service in the armed forces of Canada, sickness which confines, death in the immediate family, or jury duty, shall not be counted as meetings missed in determining such member’s eligibility under this Section; provided that the member shall have the burdened of proving inability to attend for one of the prescribed reasons, and such proof shall be provided within 30 days of the meeting the member was unable to attend.</li>
+<li>In the event the Local elects more than one delegate to the Union Convention, the Local shall determine the convention votes assigned to each delegate in accordance with Article 8 of the Constitution.</li>
+<li>The Executive Board reserves the right to appoint two (2) Delegates to the Newfoundland and Labrador Federation of Labour Convention who qualify per Article 16, Section 3(b), and who are active on a Federation of Labour Committee.</li>
 
-(c) In the event the Local elects more than one delegate to the Union Convention, the Local shall determine the convention votes assigned to each delegate in accordance with Article 8 of the Constitution.
+</ol>
 
-(d) The Executive Board reserves the right to appoint two (2) Delegates to the Newfoundland and Labrador Federation of Labour Convention who qualify per Article 16, Section 3(b), and who are active on a Federation of Labour Committee.
+<h4>Section 4: Local Committees</h4>
 
-Section 4: Local Committees
+ <ol><li>The term for the various Committee members shall be two (2) years commencing in January of each odd-numbered year, unless otherwise specified.</li></ol>
 
-(a) The term for the various Committee members shall be two (2) years commencing in January of each odd-numbered year, unless otherwise specified.
+<h4>Section 5: Appeals and Appointments</h4>
 
-Section 5: Appeals and Appointments
+<ol><li>All questions concerning the conduct and challenge of elections shall be determined by the Election Committee, subject to the right of appeal to the Local Executive Board or Local membership.</li></ol>
 
-(a) All questions concerning the conduct and challenge of elections shall be determined by the Election Committee, subject to the right of appeal to the Local Executive Board or Local membership.
 
+</ol>
 
 
 
 
 <h3><a id="bargainingcaucus">ARTICLE 17 – BARGAINING CAUCUS &amp; COMMITTEE</a></h3>
 
-Section 1: Bargaining Caucus
+<h4>Section 1: Bargaining Caucus</h4>
 
 (1) Local Bargaining Caucus
 
@@ -624,52 +608,56 @@ The first member to the CEPACC Bargaining Committee shall be the President. The 
 
 
 <h3><a id="expenses">ARTICLE 18: EXPENSES</a></h3>
-(1) Monthly incidental expense shall be paid to the Local Officers and Unit Chairpersons listed. The amount shall be determined by the appropriate percentage of the Group 13 weekly rate (40 hours per week), with the amount rounded to the nearest dollar, using standard rounding practice.
+<ol>
+	<li>Monthly incidental expense shall be paid to the Local Officers and Unit Chairpersons listed. The amount shall be determined by the appropriate percentage of the Group 13 weekly rate (40 hours per week), with the amount rounded to the nearest dollar, using standard rounding practice.
 
-President
-11%
-Vice-President
-8%
-Secretary
-8%
-Treasurer
-8%
-Regional Representative
-5%
-Unit Chairperson
-3%
+		<strong>President</strong>—
+		11%,
+		<strong>Vice-President</strong>— 
+		8%,
+		<strong>Secretary</strong>— 
+		8%,
+		<strong>Treasurer</strong>— 
+		8%,
+		<strong>Regional Representative</strong>— 
+		5%,
+		<strong>Unit Chairperson</strong>— 
+		3%,
 
-In the event the Secretary and Treasurer positions are combined, only one incidental expense amount will apply.
+		In the event the Secretary and Treasurer positions are combined, only one incidental expense amount will apply.
 
-Each claimant shall submit an Expense Form every three (3) months to the Local Treasurer for payment. Payment will be made for one Office only. If the Office becomes a full-time paid position, this Article shall not apply.
+		Each claimant shall submit an Expense Form every three (3) months to the Local Treasurer for payment. Payment will be made for one Office only. If the Office becomes a full-time paid position, this Article shall not apply.
 
-(2) Any member who is elected or appointed to represent the Local Union at meetings and required to live away from home shall be entitled to the normal breakdown of allowable meal expenses as determined by the CEP National Convention in their Finance Statement Rules and these By-Laws.
+		<li>Any member who is elected or appointed to represent the Local Union at meetings and required to live away from home shall be entitled to the normal breakdown of allowable meal expenses as determined by the CEP National Convention in their Finance Statement Rules and these By-Laws.
 
-(3)
-(a) Any member of CEP Local 410 that is bestowed full-time duties as per rules of the By-Laws will have a yearly review by the Executive Board to determine continuance in this position. The wages and benefits entitlement shall be no less than the top rate of scale 13 as per the Collective Agreement.
-(b) Before any member of Local 410 becomes a paid part-time (more than three(3) scheduled days per month) of paid full-time employee of Local 410 that a referendum be held on the question, by secret ballot, of all Local members.
+		<li>
+			<ol>
+				<li>Any member of CEP Local 410 that is bestowed full-time duties as per rules of the By-Laws will have a yearly review by the Executive Board to determine continuance in this position. The wages and benefits entitlement shall be no less than the top rate of scale 13 as per the Collective Agreement.</li>
+				<li>Before any member of Local 410 becomes a paid part-time (more than three(3) scheduled days per month) of paid full-time employee of Local 410 that a referendum be held on the question, by secret ballot, of all Local members.
+				</ol>
+		</li>
 
-(4) The normal breakdown of allowable expenses are those determined by CEP National Convention in their Finance Statement Rules and these By-Laws
+		<li>The normal breakdown of allowable expenses are those determined by CEP National Convention in their Finance Statement Rules and these By-Laws</li>
 
-(5) All disbursements for authorized expenditures made on behalf of the Local Union shall be supported by receipts or vouchers. These disbursements must be closed out by expense statements submitted within 30 working days. No further disbursements will be made until an expense statement is received at the Local Office and expense statements are closed out and reconciled. Balance owing or not owed shall not be carried over.
+		<li>All disbursements for authorized expenditures made on behalf of the Local Union shall be supported by receipts or vouchers. These disbursements must be closed out by expense statements submitted within 30 working days. No further disbursements will be made until an expense statement is received at the Local Office and expense statements are closed out and reconciled. Balance owing or not owed shall not be carried over.</li>
 
-(6) Alcohol shall not be considered an authorized expense, but a maximum of $200.00 per convention/regional meeting or other such event may be made to a Hospitality Suite.
+		<li>Alcohol shall not be considered an authorized expense, but a maximum of $200.00 per convention/regional meeting or other such event may be made to a Hospitality Suite.</li>
 
-(7) All receipts shall be itemized wherever and whenever possible.
+		<li>All receipts shall be itemized wherever and whenever possible.</li>
 
-(8) Where meals are provided in lieu of per diem, for members of the Local, all itemized receipts shall contain the name(s) and signature(s) of recipients of same. This amount shall not exceed the applicable per diem.
+		<li>Where meals are provided in lieu of per diem, for members of the Local, all itemized receipts shall contain the name(s) and signature(s) of recipients of same. This amount shall not exceed the applicable per diem.</li>
 
-(9) Any member who is entitled to overnight accommodations and wishes to be responsible for providing their own may, upon advance written approval of the President and the Treasurer, be entitled to claim living expenses equal to that provided in the Collective Agreement plus the applicable CEP Local 410 per diem as provided for in these By-Laws.
+		<li>Any member who is entitled to overnight accommodations and wishes to be responsible for providing their own may, upon advance written approval of the President and the Treasurer, be entitled to claim living expenses equal to that provided in the Collective Agreement plus the applicable CEP Local 410 per diem as provided for in these By-Laws.</li>
 
-(10) A member attending a labour sponsored school,l will be paid in town per diem.
+		<li> A member attending a labour sponsored school,l will be paid in town per diem.</li>
 
-(11) All requests for cash advances shall be in writing on the form prescribed by the Local. Such requests (where awarded) will show the Cheque# and that # shall appear on subsequent expense statement(s) that reconcile(s) the advance.
+		<li> All requests for cash advances shall be in writing on the form prescribed by the Local. Such requests (where awarded) will show the Cheque# and that # shall appear on subsequent expense statement(s) that reconcile(s) the advance.</li>
 
-(12) All requests for cash advances, expense statements and receipts shall be completed in ink.
+		<li> All requests for cash advances, expense statements and receipts shall be completed in ink.</li>
 
-(13) Cash advance cheques and expense cheques shall be separate.
+		<li> Cash advance cheques and expense cheques shall be separate.</li>
 
-
+			</ol>
 
 
 
@@ -688,30 +676,30 @@ Oath of Office shall be as per Article 21.01 of the Constitution of CEP.
 
 
 <h3><a id="charges,trialsandappeals">ARTICLE 21: CHARGES, TRIALS AND APPEALS</a></h3>
-(1) Charges: Members may be reprimanded, fined, suspended or expelled by the Local in the manner provided for in the Constitution under Article 17 for any of the following acts:
+Charges: Members may be reprimanded, fined, suspended or expelled by the Local in the manner provided for in the Constitution under Article 17 for any of the following acts:
 
-(a) Making false material statements or withholding material information when applying for membership.
-(b) Willfully refusing to pay dues or assessments properly established or fines properly imposed or other valid financial obligations to the Union or Local.
-(c) Willfully violating Constitution of the Union, Local By-Laws or Rules.
-(d) Disobeying or willfully failing to comply with any lawful decision or order of the Union or Local.
-(e) Working without proper Union authorization, during the period of a properly approved strike, in or for an establishment which is being struck by the Union or Local.
-(f) Instigating or knowingly participating in an unauthorized strike or slowdown.
-(g) Willfully violating the adopted standards as to wages, hours or working conditions.
-(h) Misappropriating money or property of the Union or Local.
-(i) Taking any civil action, suit or proceeding in any court or before any administrative body, against the Union, or any of its subordinate bodies, or any officer or member of the Union without first exhausting all remedies provided for in the Constitution for appeal.
-(j) For such other offenses, equally serious, which tend to bring the Union or Local into disrepute.
-(k) Performing acting or temporary management work for the employer of a CEP Bargaining Unit whose Collective Agreement is expired.
-
-
+<ol>
+	<li>Making false material statements or withholding material information when applying for membership.</li>
+	<li>Willfully refusing to pay dues or assessments properly established or fines properly imposed or other valid financial obligations to the Union or Local.</li>
+	<li>Willfully violating Constitution of the Union, Local By-Laws or Rules.</li>
+	<li>Disobeying or willfully failing to comply with any lawful decision or order of the Union or Local.</li>
+	<li>Working without proper Union authorization, during the period of a properly approved strike, in or for an establishment which is being struck by the Union or Local.</li>
+	<li>Instigating or knowingly participating in an unauthorized strike or slowdown.</li>
+	<li>Willfully violating the adopted standards as to wages, hours or working conditions.</li>
+	<li>Misappropriating money or property of the Union or Local.</li>
+	<li>Taking any civil action, suit or proceeding in any court or before any administrative body, against the Union, or any of its subordinate bodies, or any officer or member of the Union without first exhausting all remedies provided for in the Constitution for appeal.</li>
+	<li>For such other offenses, equally serious, which tend to bring the Union or Local into disrepute.</li>
+	<li>Performing acting or temporary management work for the employer of a CEP Bargaining Unit whose Collective Agreement is expired.</li>
+</ol>
 
 
 
 <h3><a id="recall">ARTICLE 22: RECALL</a></h3>
 
-(a) Any elected Officer of this Local may be recalled in accordance with the provisions of Article 17 of the Union Constitution.
-
-(b) Any Steward, Regional Representative, Unit Chairperson, Vice Chairperson, or Secretary may be recalled by a petition of two-thirds (2/3) of the members of their voting constituency. Attached to the petition shall be a description of the offense or offenses and the approximate dates thereof. The petition shall be filed with the Secretary of the Local. They may also be recalled under the rules of Article 17 of the Union Constitution.
-
+<ol>
+	<li>Any elected Officer of this Local may be recalled in accordance with the provisions of Article 17 of the Union Constitution.</li>
+	<li>Any Steward, Regional Representative, Unit Chairperson, Vice Chairperson, or Secretary may be recalled by a petition of two-thirds (2/3) of the members of their voting constituency. Attached to the petition shall be a description of the offense or offenses and the approximate dates thereof. The petition shall be filed with the Secretary of the Local. They may also be recalled under the rules of Article 17 of the Union Constitution.</li>
+</ol>
 
 
 
@@ -737,17 +725,19 @@ Strikes and Strike votes shall be conducted as per Article 16 or the Union Const
 
 
 <h3><a id="miscellaneous">ARTICLE 25: MISCELLANEOUS</a></h3>
-(a) Whenever in these By-Laws the word Constitution is mentioned, the Constitution is meant to be that of the Communications, Energy and Paperworkers Union of Canada.
+<ol>
+	<li>Whenever in these By-Laws the word Constitution is mentioned, the Constitution is meant to be that of the Communications, Energy and Paperworkers Union of Canada.</li>
 
-(b) Proxy voting and write-ins shall not be allowed in Local voting procedure. Fax voting shall be allowed upon the request of the member and be sent to a member of the Election Committee.
+	<li>Proxy voting and write-ins shall not be allowed in Local voting procedure. Fax voting shall be allowed upon the request of the member and be sent to a member of the Election Committee.</li>
 
-(c) The fiscal year of the Local shall be January 1st to and including December 31st each year.
+	<li>The fiscal year of the Local shall be January 1st to and including December 31st each year.</li>
 
-(d) It shall be the Policy of this Local to initiate and maintain membership in the Newfoundland and Labrador Federation of Labour and in the appropriate Labour Councils.
+	<li>It shall be the Policy of this Local to initiate and maintain membership in the Newfoundland and Labrador Federation of Labour and in the appropriate Labour Councils.</li>
 
-(e) The Local President, in conjunction with the Treasurer, shall have signing power to donate a maximum of $500.00 for each strike appeal from the Federation of Labour and/or Locals of CEP. Any amount exceeding $500.00 shall have prior approval of the Executive Board.
+	<li>The Local President, in conjunction with the Treasurer, shall have signing power to donate a maximum of $500.00 for each strike appeal from the Federation of Labour and/or Locals of CEP. Any amount exceeding $500.00 shall have prior approval of the Executive Board.</li>
 
-(f) As per Article 5 of the Union Constitution any member who assumes any temporary, acting or permanent management position shall not hold any office within the Local or attend any Local or other Union Meetings while holding such a position. Except where prohibited by law, they shall not have any voting privileges during that period and for thirty (30) days after their return to the Local.
+	<li>As per Article 5 of the Union Constitution any member who assumes any temporary, acting or permanent management position shall not hold any office within the Local or attend any Local or other Union Meetings while holding such a position. Except where prohibited by law, they shall not have any voting privileges during that period and for thirty (30) days after their return to the Local.</li>
+</ol>
 
 Amended March 1998
 Amended December 1998
@@ -757,56 +747,57 @@ Amended April 2007
 CEP LOCAL 4100
 POLICIES
 
-1) Flight Policy
+<ol>
+<li>Flight Policy
 
-a) All Union paid travel shall be booked through the union office.
+	<ol>
+		<li>All Union paid travel shall be booked through the union office.</li>
+		<li>Price comparison will be done on line and then booked directly through the Airline by the union Office Administrator. In the Administrator’s absence, the booking of travel will be done by the treasurer or the treasurers designate, who shall be an executive officer.</li>
+		<li>Upon completion of all air travel, all boarding passes and tickets shall be submitted with the members expense form. Where the primary travel expense is paid by other than the Local, if any expense is incurred by the Local, then a copy of all boarding passes and airline tickets shall be attached to the expense statement.</li>
+		<li>If a member traveling by air on behalf of the Local decides to stop over or choose an alternate route for personal reasons, difference in price due to stop over or alternate route vs. on through flight shall be determined at the time of booking, and increased cost is the responsibility of the member.</li>
+		<li>Where air travel is approved by the financial officers of the Local and the member chooses alternate transportation, any compensation for travel shall not exceed the cost of the airline ticket at the time of booking.</li>
+	</ol>
+	
+<li><strong>Wage Treatment</strong>
+	There shall be no loss of regular, premium or differential pay to which the member might be entitled when booked off on Union Business.
+</li>
 
-b) Price comparison will be done on line and then booked directly through the Airline by the union Office Administrator. In the Administrator’s absence, the booking of travel will be done by the treasurer or the treasurers designate, who shall be an executive officer.
+<li><strong>Scholarship</strong>
+	<ol>
+		<li>There will be two (2) 1000.00 scholarships awarded annually for children of or children under the guardianship of CEP Local 410 members in good standing, retired CEP Local 410 members who were in good standing at the time of their retirement and who are doing Bargaining Unit work, or decreased Local 410 members who were in good standing at the time of their death.</li>
+		<li>Bernie “Copper” Murphy Scholarship: Applicants must be accepted for admission or already be enrolled as a full-time student in the first year at an accredited college or university, nursing, technical or vocational school.</li>
+		<li>Ann Neville Scholarship: Open to all qualified students who currently attend an accredited college, university, nursing, technical or vocational school.</li>
+		<li>An applicant can be awarded only one CEP Local 410 scholarship in their post secondary career.</li>
+	</ol>
+</li>
 
-c) Upon completion of all air travel, all boarding passes and tickets shall be submitted with the members expense form. Where the primary travel expense is paid by other than the Local, if any expense is incurred by the Local, then a copy of all boarding passes and airline tickets shall be attached to the expense statement.
+<li><strong>Bereavements</strong>
 
-d) If a member traveling by air on behalf of the Local decides to stop over or choose an alternate route for personal reasons, difference in price due to stop over or alternate route vs. on through flight shall be determined at the time of booking, and increased cost is the responsibility of the member.
+	a) Upon notification of the death of a current member of CEP Local 410, the spouse, child, mother, father, and or siblings of a current member of CEP Local 410, flowers (up to a maximum cost of $50.00) will be presented in their memory on behalf of the Local membership.
 
-e) Where air travel is approved by the financial officers of the Local and the member chooses alternate transportation, any compensation for travel shall not exceed the cost of the airline ticket at the time of booking.
+	b) In lieu of flowers a donation may be made to a charity of the family’s choice.
+</li>
 
-2) Wage Treatment
+<li><strong>Approved time in the Union office</strong>
+	<ol><li>Local Executive Officers will be entitled to up to three (3) days per month to work in the Union Office, on a as need basis.</li>
+		<li>The Chief Steward will be entitled up to two (2) days per month in the Union Office on an as need basis.</li>
+		<li>The trustee committee will be permitted one day per quarter to review the books and send the report to the National Union, and prepare a report to the Local.</li>
+	</ol>
+</li>
 
-There shall be no loss of regular, premium or differential pay to which the member might be entitled when booked off on Union Business.
+<li><strong>Retirements</strong>
+	A watch will be presented to each member upon retirement from the company.
+</li>
 
-3) Scholarship
-
-a) There will be two (2) 1000.00 scholarships awarded annually for children of or children under the guardianship of CEP Local 410 members in good standing, retired CEP Local 410 members who were in good standing at the time of their retirement and who are doing Bargaining Unit work, or decreased Local 410 members who were in good standing at the time of their death.
-
-b) Bernie “Copper” Murphy Scholarship: Applicants must be accepted for admission or already be enrolled as a full-time student in the first year at an accredited college or university, nursing, technical or vocational school.
-
-c) Ann Neville Scholarship: Open to all qualified students who currently attend an accredited college, university, nursing, technical or vocational school.
-
-d) An applicant can be awarded only one CEP Local 410 scholarship in their post secondary career.
-
-4) Bereavements
-
-a) Upon notification of the death of a current member of CEP Local 410, the spouse, child, mother, father, and or siblings of a current member of CEP Local 410, flowers (up to a maximum cost of $50.00) will be presented in their memory on behalf of the Local membership.
-
-b) In lieu of flowers a donation may be made to a charity of the family’s choice.
-
-5) Approved time in the Union office
-
-a) Local Executive Officers will be entitled to up to three (3) days per month to work in the Union Office, on a as need basis.
-
-b) The Chief Steward will be entitled up to two (2) days per month in the Union Office on an as need basis.
-
-c) The trustee committee will be permitted one day per quarter to review the books and send the report to the National Union, and prepare a report to the Local.
-
-6) Retirements
-
-A watch will be presented to each member upon retirement from the company.
-
-7) Donations to Spina Bifida
-
-a) CEP Local 410 will donate at each CEP biennial convention, $1.00 per member to Spina Bifida, based on the number of active members at the time of the convention call.
-
-b) CEP Local 410 will donate $0.20 per member annually to the Newfoundland Spina Bifida Association.          
+<li><strong>Donations to Spina Bifida</strong>
+	<ol>
+		<li>CEP Local 410 will donate at each CEP biennial convention, $1.00 per member to Spina Bifida, based on the number of active members at the time of the convention call.</li>
+		<li>CEP Local 410 will donate $0.20 per member annually to the Newfoundland Spina Bifida Association. </li>
+    </ol>         
+    
+ </li>
  
+ </ol>
  
 </div><!-- article container -->
 			</div><!-- #content .site-content -->
