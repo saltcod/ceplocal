@@ -12,7 +12,7 @@
  */
 
 get_header(); ?>
-<div class="secondary">sam</div>
+<div class="secondary"></div>
 		<div id="primary" class="content-area">
 			<div id="content" class="site-content" role="main">
 

@@ -67,11 +67,8 @@
 		<div class="representing"> <img src="<?php echo get_template_directory_uri();?>/images/cep-logo.png"> </div>
 		<div class="union-logo"> <img src="<?php echo get_template_directory_uri();?>/images/representing.png"> </div>
 		
-		<div class="contact group">
-			726-5550 / 753-7564<br> <a href="#">ceplocal410@gmail.com</a>
-		</div>
+		<div class="hero group"></div>
 
-				<div class="hero group"></div>
 
 	</header><!-- #masthead .site-header -->
 
