@@ -115,19 +115,22 @@ function ceplocal_scripts() {
 add_action( 'wp_enqueue_scripts', 'ceplocal_scripts' );
 
 
+
 /**
  * Print out the current template file to the footer. 
  * Obviously to be removed in production
  *
- * @since 1.0
+ * @since 0.1
  */
 
-function ceplocal_park_show_template() {
-	global $template;
-	echo '<strong>Template file:</strong>';
-	 print_r($template);
+function waterstreet_show_template() {
+	if ( is_super_admin() ){
+		global $template;
+		echo '<strong>Template file:</strong>';
+	 	print_r($template);
+	 }
 }
-add_action('wp_footer', 'ceplocal_park_show_template');
+add_action('wp_footer', 'waterstreet_show_template');
 
 
  /**
