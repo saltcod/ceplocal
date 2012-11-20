@@ -52,7 +52,7 @@ body {
   position: relative;
 }
 body.home #main {
-  margin-top: -30px;
+  margin-top: -34px;
 }
 body.home .hero {
   height: 150px;
@@ -76,6 +76,7 @@ header#masthead h1.site-title {
   margin-bottom: .2em;
   text-align: center;
   font-weight: 600;
+  text-transform: uppercase;
 }
 header#masthead h1.site-title a {
   color: #198ac1;
@@ -722,9 +723,6 @@ object {
 }
 /* =Bylaws page
 ----------------------------------------------- */
-body.page-by-laws {
-  font-family: georgia, serif;
-}
 body.page-by-laws .article-container {
   margin-left: 40px;
   padding: 25px;
