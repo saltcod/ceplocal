@@ -794,7 +794,7 @@ body.page-by-laws h2 {
   font-size: 14px;
 }
 body.page-by-laws h2 a {
-  color: #c1191a;
+  color: #167aaa;
 }
 body.page-by-laws h2 span {
   font-weight: bold;
@@ -808,7 +808,7 @@ body.page-by-laws h3 {
   margin-left: -50px;
 }
 body.page-by-laws h3 a {
-  color: #c1191a;
+  color: #167aaa;
 }
 body.page-by-laws h3:before {
   content: "\00b6";
