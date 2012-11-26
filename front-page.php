@@ -34,9 +34,9 @@ get_header();
 
 <h3 class="section-title">Quick Access</h3>
 	<div class="quick-access">
-		<a href="#"><img src="<?php echo get_template_directory_uri();?>/images/button-bulletins.png" alt=""></a>
-		<a href="#"><img src="<?php echo get_template_directory_uri();?>/images/button-bylaws.png" alt=""></a>
-		<a href="#"><img class="last" src="<?php echo get_template_directory_uri();?>/images/button-collective-agreements.png" alt=""></a>
+		<a href="http://ceplocal410.ca/bulletins/"><img src="<?php echo get_template_directory_uri();?>/images/button-bulletins.png" alt=""></a>
+		<a href="http://ceplocal410.ca/by-laws/"><img src="<?php echo get_template_directory_uri();?>/images/button-bylaws.png" alt=""></a>
+		<a href="http://ceplocal410.ca/collective-agreements/"><img class="last" src="<?php echo get_template_directory_uri();?>/images/button-collective-agreements.png" alt=""></a>
 	</div>
  
 

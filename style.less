@@ -46,7 +46,6 @@ body {
  	position: relative;
 }
 
-body.home #main { margin-top: -34px;}
 body.home .hero { height: 150px; }
  
 
@@ -56,8 +55,8 @@ body.home .hero { height: 150px; }
 #secondary {
 	float: left;
 	font-size: 14px;
-	background: #f9f9f9;
-	margin: 25px 0 0 35px;
+	background: #f1f1f1;
+	margin: 45px 0 0 35px;
 	padding: 0 0 15px 0;
 	width: 250px;
 		h1.widget-title {
@@ -134,7 +133,7 @@ header#masthead {
 /* Page title negative margin */
 
 #main{ 
-	margin-top:-78px; 
+	margin-top:-76px; 
 }
 
 .entry-content {
@@ -144,7 +143,7 @@ header#masthead {
 }
 
 body.home {
-	#main{ margin-top:-78px; }
+	 
 
 	.entry-content {
 		 float: left;
@@ -577,11 +576,13 @@ body.home {
 		width: 31.5%;
 		margin-right: 15px;	
 		margin-bottom: 25px;
-		padding-bottom: 2px;
-		.transition (.5s, ease-out);
-		
+ 		.transition (.2s, ease-out);
+
 			&.last { margin: 0; }
-			&:hover {.opacity(.9); border-bottom: 3px solid @blue; padding-bottom: 2px;}
+			&:hover {
+				.opacity(.9); 
+ 				.box-shadow(0 1px 4px #999);
+			}
 	}
 }
 
