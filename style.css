@@ -136,11 +136,18 @@ header#masthead .contact {
 /* Page title negative margin */
 #main {
   margin-top: -78px;
-  border: 2px solid red;
 }
 .entry-content {
   float: left;
   margin-left: 60px;
+  width: 90%;
+}
+body.home #main {
+  margin-top: -78px;
+}
+body.home .entry-content {
+  float: left;
+  margin: 0;
   width: 100%;
 }
 /* =Global
@@ -278,7 +285,7 @@ figure {
 }
 table {
   margin: 0 0 1.5em;
-  width: 90%;
+  width: 100%;
 }
 th {
   font-weight: bold;
@@ -574,9 +581,8 @@ a:active {
 ----------------------------------------------- */
 body.home #primary {
   float: left;
-  width: 550px;
+  width: 580px;
   margin-left: 35px;
-  margin-top: 25px;
 }
 body.home .left {
   float: left;
@@ -597,6 +603,35 @@ body.home .right {
 }
 body.home .right a {
   border-bottom: 1px solid #198ac1;
+}
+body.home h3.section-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: #198ac1;
+  margin: 35px 0 25px;
+  border-top: 3px solid #198ac1;
+  padding-top: 25px;
+}
+body.home .quick-access img {
+  float: left;
+  width: 31.5%;
+  margin-right: 15px;
+  margin-bottom: 25px;
+  padding-bottom: 2px;
+  -webkit-transition: all 0.5s ease-out;
+  -moz-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
+}
+body.home .quick-access img.last {
+  margin: 0;
+}
+body.home .quick-access img:hover {
+  -moz-opacity: 0.9;
+  -khtml-opacity: 0.9;
+  -webkit-opacity: 0.9;
+  opacity: 0.9;
+  border-bottom: 3px solid #198ac1;
+  padding-bottom: 2px;
 }
 /* =Page styles
 ----------------------------------------------- */
@@ -738,7 +773,8 @@ img.size-full {
 .site-content .gallery dd {
   margin: 0;
 }
-/* Make sure embeds and iframes fit their containers */
+/* Make sure images, embeds and iframes fit their containers */
+img,
 embed,
 iframe,
 object {

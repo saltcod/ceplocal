@@ -29,7 +29,17 @@ get_header();
 
 </div><!-- #content .site-content -->
 
-<h3>Serving Members from across Newfoundland and Labrador</h3>
+<h3 class="section-title">Serving Members from across Newfoundland and Labrador</h3>
+	<img src="<?php echo get_template_directory_uri();?>/images/representing-750.png" alt="">
+
+<h3 class="section-title">Quick Access</h3>
+	<div class="quick-access">
+		<a href="#"><img src="<?php echo get_template_directory_uri();?>/images/button-bulletins.png" alt=""></a>
+		<a href="#"><img src="<?php echo get_template_directory_uri();?>/images/button-bylaws.png" alt=""></a>
+		<a href="#"><img class="last" src="<?php echo get_template_directory_uri();?>/images/button-collective-agreements.png" alt=""></a>
+	</div>
+ 
+
 </div><!-- #primary .content-area -->
 
 <?php get_footer(); ?>

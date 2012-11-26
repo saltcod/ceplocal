@@ -135,16 +135,23 @@ header#masthead {
 
 #main{ 
 	margin-top:-78px; 
-	border: 2px solid red; 
 }
 
 .entry-content {
 	 float: left;
 	 margin-left: 60px;
-	 width: 100%;
+	 width: 90%;
 }
 
+body.home {
+	#main{ margin-top:-78px; }
 
+	.entry-content {
+		 float: left;
+		 margin: 0;
+		 width: 100%;
+	}
+}
 
 /* =Global
 ----------------------------------------------- */
@@ -266,7 +273,7 @@ figure {
 }
 table {
 	margin: 0 0 1.5em;
-	width: 90%;
+	width: 100%;
 }
 th {
 	font-weight: bold;
@@ -535,9 +542,8 @@ a:active {
 body.home {
 	#primary {
 		float: left;
-		width: 550px;
+		width: 580px;
 		margin-left: 35px;
-		margin-top: 25px;
 	}
 	.left{
 		float: left;
@@ -557,6 +563,25 @@ body.home {
 		width: 450px;
 			a { border-bottom: 1px solid @blue;}
 
+	}
+	h3.section-title {
+		font-size: 16px; 
+		font-weight: 600;
+		color: @blue;
+		margin: 35px 0 25px;
+		border-top: 3px solid @blue;
+		padding-top: 25px;
+	}
+	.quick-access img {
+		float: left;
+		width: 31.5%;
+		margin-right: 15px;	
+		margin-bottom: 25px;
+		padding-bottom: 2px;
+		.transition (.5s, ease-out);
+		
+			&.last { margin: 0; }
+			&:hover {.opacity(.9); border-bottom: 3px solid @blue; padding-bottom: 2px;}
 	}
 }
 
@@ -724,7 +749,8 @@ img.size-full {
 .site-content .gallery-columns-4 .gallery-item img {
 }
 
-/* Make sure embeds and iframes fit their containers */
+/* Make sure images, embeds and iframes fit their containers */
+img,
 embed,
 iframe,
 object {
