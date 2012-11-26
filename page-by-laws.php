@@ -16,7 +16,7 @@ get_header(); ?>
 <div id="primary" class="content-area">
 	<div id="content" class="site-content" role="main">
 
-	<header class="entry-header">
+	<header class="entry-header group">
 	<h1 class="entry-title">By-laws</a></h1>
 	</header><!-- .entry-header -->
 

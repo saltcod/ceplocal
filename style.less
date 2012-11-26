@@ -39,17 +39,15 @@ body {
 #page {
 	width: 960px;
 	background: white;
-	margin: 0 auto;
+	margin: 0 auto 25px;
 	padding: 0 25px 10px;
 }
 #main{
-	margin-top: -34px;
-	position: relative;
+ 	position: relative;
 }
 
 body.home #main { margin-top: -30px;}
 body.home .hero { height: 150px; }
-body.home #primary { width: 100%;}
  
 
 
@@ -57,10 +55,25 @@ body.home #primary { width: 100%;}
  }
 #secondary {
 	float: left;
-	background: #efefef;
-	margin: 75px 0 0 35px;
-	padding: 25px 10px;
-	width: 30%;
+	font-size: 14px;
+	background: #f9f9f9;
+	margin: 25px 0 0 35px;
+	padding: 0 0 15px 0;
+	width: 250px;
+		h1.widget-title {
+			font-size: 14px;
+ 			text-transform: uppercase;
+			font-weight: bold;
+			background: @blue;
+			color: white;
+			padding: 5px;
+			margin: 0;
+		}
+		ul {
+			list-style-type: none;
+			padding: 10px 15px;
+			margin: 0;
+		}
 }
 
 header#masthead {
@@ -71,6 +84,7 @@ header#masthead {
 		margin-bottom: .2em; 
 		text-align: center;
 		font-weight: 600;
+		text-transform: uppercase;
 			a { color: @blue; text-decoration: none;}
 	}
 	.site-description{
@@ -89,6 +103,7 @@ header#masthead {
 		height: 120px;
 		width: 100%;
 		margin-top: 100px;
+			body.home & { height: 250px; }
 	}
 	.representing {
 		position: absolute;
@@ -113,10 +128,24 @@ header#masthead {
 
 	}
 }
+ 
 
-body.home header#masthead .hero { 
-	height: 250px; 
+
+/* Page title negative margin */
+
+#main{ 
+	margin-top:-78px; 
+	border: 2px solid red; 
 }
+
+.entry-content {
+	 float: left;
+	 margin-left: 60px;
+	 width: 100%;
+}
+
+
+
 /* =Global
 ----------------------------------------------- */
 
@@ -237,7 +266,7 @@ figure {
 }
 table {
 	margin: 0 0 1.5em;
-	width: 100%;
+	width: 90%;
 }
 th {
 	font-weight: bold;
@@ -504,6 +533,12 @@ a:active {
 /* =Front page
 ----------------------------------------------- */
 body.home {
+	#primary {
+		float: left;
+		width: 550px;
+		margin-left: 35px;
+		margin-top: 25px;
+	}
 	.left{
 		float: left;
 		width: 275px;
@@ -535,9 +570,9 @@ article {
 }
 
 h1.entry-title {
+	float: left;
 	font-size: 32px;
-	margin-top: -26px;
-	background: #fff;
+ 	background: #fff;
 	display: inline-block;
 	color: @blue;
 	padding: 0 35px;
@@ -607,7 +642,6 @@ body.archive {
 }
 .entry-content,
 .entry-summary {
-	margin: 25px 65px;
 }
 .page-links {
 	clear: both;
@@ -700,9 +734,7 @@ object {
 /* =Bylaws page
 ----------------------------------------------- */
 
-body.page-by-laws {
-	font-family: georgia, serif; 
-	
+body.page-by-laws {	
 	.article-container { 
 		margin-left: 40px; 
 		padding: 25px;
@@ -713,7 +745,6 @@ body.page-by-laws {
 	}
 	.article-index {
 		margin-bottom: 50px;
-		margin-top: 25px;
 		border-bottom: 1px solid;
 		padding-bottom: 25px;
 		-webkit-column-count: 2;
@@ -799,7 +830,7 @@ footer.site-footer {
 ----------------------------------------------- */
 
 .widget {
-	margin: 0 0 1.5em;
+	 
 }
 
 /* Search widget */

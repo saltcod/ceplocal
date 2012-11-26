@@ -11,19 +11,25 @@
  * @since ceplocal 1.0
  */
 
-get_header(); ?>
-<div class="secondary"></div>
-		<div id="primary" class="content-area">
-			<div id="content" class="site-content" role="main">
+get_header(); 
+?>
 
-				<?php while ( have_posts() ) : the_post(); ?>
+<div class="group"><h1 class="entry-title">Welcome</h1></div>
 
-					<?php get_template_part( 'content', 'page' ); ?>
+<?php get_sidebar(); ?>
 
-				<?php endwhile; // end of the loop. ?>
+<div id="primary" class="content-area">
+	<div id="content" class="site-content" role="main">
 
-			</div><!-- #content .site-content -->
-		</div><!-- #primary .content-area -->
+		<?php while ( have_posts() ) : the_post(); ?>
+
+		<?php get_template_part( 'content', 'page' ); ?>
+
+	<?php endwhile; // end of the loop. ?>
+
+</div><!-- #content .site-content -->
+
+<h3>Serving Members from across Newfoundland and Labrador</h3>
+</div><!-- #primary .content-area -->
 
 <?php get_footer(); ?>
- 
