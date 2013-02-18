@@ -128,12 +128,12 @@ The membership of the Local may levy a special assessment only in the same manne
 <h4>Section 1: Membership</h4>
 
 The affairs of the Local shall be governed by its membership in accordance with the Constitution and Policies of the Union in the following manner:
-	<ul>
+	<ol class="letters">
 		<li>Through action taken in membership meetings or by referendum of the membership.</li>
 		<li>Through actions and decision of the Local Executive Board between membership meetings.</li>
 		<li>Through actions and decision of the Local Officers between meetings of the Local Executive Board.</li>
 		<li>Through actions and decisions of the Local Executive Board and Officers of the Local between Local meetings may be overruled by the membership in Local meetings or by referendum.</li>
-	</ul>
+	</ol>
 
 <h4>Section 2: Executive Board</h4>
 
