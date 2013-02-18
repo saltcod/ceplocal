@@ -138,6 +138,7 @@ header#masthead .contact {
   float: left;
   margin-left: 60px;
   width: 90%;
+  min-height: 400px;
 }
 body.home .entry-content {
   float: left;
